@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my record of study is available at [https://study-ksj.notion.site/32516b6dc86f406e8eb7a0265c474a2a](https://study-ksj.notion.site/32516b6dc86f406e8eb7a0265c474a2a)
 
-- 📝 I regularly write articles on [https://ohksj77.tistory.com/](https://ohksj77.tistory.com/)
+- 📝 My blog address is [https://ohksj77.tistory.com/](https://ohksj77.tistory.com/)
 
 - 📫 How to reach me **ohksj77@gmail.com**
 
