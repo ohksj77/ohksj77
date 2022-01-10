@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ohksj77@naver.com**
 
-- 📄 Problem solving in [https://solved.ac/profile/ohksj77](https://solved.ac/profile/ohksj77)
+- 📄 Problem solving in [https://www.acmicpc.net/user/ohksj77](https://www.acmicpc.net/user/ohksj77)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
