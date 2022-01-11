@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SeungJin Kim</h1>
-<h3 align="center">A passionate student who want to be a backend developer</h3>
+<h3 align="center">A passionate student who wants to be a backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohksj77&label=Profile%20views&color=0e75b6&style=flat" alt="ohksj77" /> </p>
 
