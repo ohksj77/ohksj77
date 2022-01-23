@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm SeungJin Kim</h1>
 <h3 align="center">A passionate student who wants to be a backend developer</h3>
 
-<div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohksj77&count_bg=%23ED4C05&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohksj77%2Fhit-counter&count_bg=%23D34D4D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Blogger&link=https://ohksj77.tistory.com/)](https://zzsza.github.io/)
 	
