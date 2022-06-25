@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=18&height=300&section=header&text=SeungJin%20Kim&fontSize=90&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=SeungJin%20Kim&fontSize=90&animation=fadeIn" />
 
-<div align=center><h1>🌐 My Sites </h1></div>
+<div align=center><h1>🌐 Me </h1></div>
 <div align=center>
   <a href="mailto:ohksj77@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ohksj77@gmail.com"></a>
   <a href="mailto:ohksj77@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto=ohksj77@naver.com"></a>
@@ -18,10 +18,15 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Mysql-3776AB?style=for-the-badge&logo=MySQL&logoColor=white">
   <br>
 </div>
 
 <div align=center><h1>💻 Stats </h1></div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77/)  
-![ohksj77's Github Stats](https://github-readme-stats.vercel.app/api?username=ohksj77&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<div align=center>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohksj77">
+  <img src="https://github-readme-stats.vercel.app/api?username=ohksj77&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=150&section=footer)
