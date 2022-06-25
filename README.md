@@ -22,5 +22,6 @@
 </div>
 
 <div align=center><h1>💻 Stats 💻</h1></div>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77/)  
 ![ohksj77's Github Stats](https://github-readme-stats.vercel.app/api?username=ohksj77&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
