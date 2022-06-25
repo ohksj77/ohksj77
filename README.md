@@ -2,12 +2,10 @@
 
 <div align=center><h1>🌐 My Sites 🌐</h1></div>
 
-<div align=center
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ohksj77@gmail.com)](mailto:ohksj77@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto=ohksj77@naver.com)](mailto:ohksj77@naver.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://study-ksj.notion.site/32516b6dc86f406e8eb7a0265c474a2a)](https://study-ksj.notion.site/32516b6dc86f406e8eb7a0265c474a2a)
 [![Blog Badge](https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=Blogger&logoColor=white&link=https://ohksj77.tistory.com/) (https://ohksj77.tistory.com/)
-/>
 
 <div align=center><h1>📚 STACKS 📚</h1></div>
 
