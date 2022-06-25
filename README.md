@@ -14,7 +14,7 @@
   <br>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77/) 
-![ohksj77's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohksj77&show_icons=true&theme=gradient)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77/)  
+![ohksj77's Github Stats](https://github-readme-stats.vercel.app/api?username=ohksj77&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=18&height=200&section=footer)
