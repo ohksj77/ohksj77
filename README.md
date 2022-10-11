@@ -5,7 +5,6 @@
   <a href="mailto:ohksj77@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ohksj77@gmail.com"></a>
   <a href="mailto:ohksj77@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto=ohksj77@naver.com"></a>
   <a href="https://study-ksj.notion.site/32516b6dc86f406e8eb7a0265c474a2a"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://study-ksj.notion.site/32516b6dc86f406e8eb7a0265c474a2a"></a>
-  <a href="https://ohksj77.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=Blogger&logoColor=white&link=https://ohksj77.tistory.com/"></a>
 </div>
 <div align=center><h1>📚 STACKS </h1></div>
 
