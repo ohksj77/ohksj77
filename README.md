@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=SeungJin%20Kim&fontSize=90&animation=fadeIn" />
 
-<div align=center><h2>🐶 I love coding like the puppy below </h2></div>
+<div align=center><h2>🐶 I enjoy coding like the puppy below </h2></div>
  <div align=center>
   <img src="https://user-images.githubusercontent.com/89020004/200587568-e2a1b0a2-0f66-4fcd-ba54-6b43e9e4ce36.gif">
 </div>
