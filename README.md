@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ohksj77&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </div>
 
-<div align=center><h1>🐶 I like coding like the puppy below </h1></div>
+<div align=center><h2>🐶 I love coding like the puppy below </h2></div>
  <div align=center>
   <img src="https://user-images.githubusercontent.com/89020004/200587568-e2a1b0a2-0f66-4fcd-ba54-6b43e9e4ce36.gif">
  </div>
