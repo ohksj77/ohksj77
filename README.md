@@ -8,7 +8,6 @@
 <div align=center><h1>👤 Me </h1></div>
 
 <div align=center>
- <a href="https://career.programmers.co.kr/pr/ohksj77_8282"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=ReverbNation&logoColor=white"/></a>
  <a href="https://study-ksj.notion.site/32516b6dc86f406e8eb7a0265c474a2a"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
  </a>
  <a href="https://ohksj77.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
