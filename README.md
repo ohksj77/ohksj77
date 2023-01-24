@@ -42,6 +42,8 @@
   <a href=https://solved.ac/profile/ohksj77>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohksj77">
   </a>
+</div>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=ohksj77&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </div>
  
