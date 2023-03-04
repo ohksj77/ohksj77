@@ -43,6 +43,7 @@
 </div>
 <div align=center><h1>🕐 Experienced about once </h1></div>
 <div align=center>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
  <img src="https://img.shields.io/badge/Faust-66FFCC?style=for-the-badge&logo=Faust&logoColor=white">
  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white">
