@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
 </div>
-<div align=center><h1>🕐 Experienced once </h1></div>
+<div align=center><h1>🕐 Experienced about once </h1></div>
 <div align=center>
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
  <img src="https://img.shields.io/badge/Faust-66FFCC?style=for-the-badge&logo=Faust&logoColor=white">
