@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=SeungJin%20Kim&fontSize=90&animation=fadeIn" />
 
-<div align=center><h1>🐶 I enjoy coding like the puppy below </h1></div>
+<div align=center><h1>🐶 Welcome </h1></div>
  <div align=center>
-  <img src="https://user-images.githubusercontent.com/89020004/200587568-e2a1b0a2-0f66-4fcd-ba54-6b43e9e4ce36.gif">
+  <img src="https://github.com/ohksj77/ohksj77/assets/89020004/794017ed-c366-4de9-a753-513b8933f0c3">
 </div>
 
 <div align=center><h1>👤 Me </h1></div>
