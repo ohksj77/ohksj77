@@ -2,7 +2,7 @@
 
 <div align=center><h1>🐶 Welcome </h1></div>
  <div align=center>
-  <img src="https://github.com/ohksj77/ohksj77/assets/89020004/794017ed-c366-4de9-a753-513b8933f0c3">
+  <img src="https://github.com/ohksj77/ohksj77/assets/89020004/0a081f38-a9c0-4a7b-9857-5223fe05c1c4">
 </div>
 
 <div align=center><h1>👤 Me </h1></div>
