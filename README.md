@@ -5,7 +5,7 @@
   <img src="https://github.com/ohksj77/ohksj77/assets/89020004/0a081f38-a9c0-4a7b-9857-5223fe05c1c4">
 </div>
 
-<div align=center><h1>👤 Me </h1></div>
+<div align=center><h1>👤 Links </h1></div>
 
 <div align=center>
  <a href="https://study-ksj.notion.site/32516b6dc86f406e8eb7a0265c474a2a"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -15,7 +15,7 @@
  <a href="mailto:ohksj77@naver.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
 </div>
 
-<div align=center><h1>📚 Confident Skills </h1></div>
+<div align=center><h1>📚 Confident skills </h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
