@@ -6,18 +6,19 @@
 ![dancingdog](https://github.com/ohksj77/ohksj77/assets/89020004/0a081f38-a9c0-4a7b-9857-5223fe05c1c4)
  
 # 👤 Links
-![https://study-ksj.notion.site/32516b6dc86f406e8eb7a0265c474a2a](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
-![https://ohksj77.tistory.com/](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white)
-![https://ohksj77.gitbook.io/seungjin-kim/](https://img.shields.io/badge/Gitbook-000000?style=flat-square&logo=Gitbook&logoColor=white)
-![mailto:ohksj77@naver.com](https://img.shields.io/badge/Email-000000?style=flat-square&logo=Mail.Ru&logoColor=white)
- 
+
+<a href="https://study-ksj.notion.site/32516b6dc86f406e8eb7a0265c474a2a"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a>
+<a href="https://ohksj77.tistory.com/"> <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/> </a>
+<a href="https://ohksj77.gitbook.io/seungjin-kim/"> <img src="https://img.shields.io/badge/Gitbook-000000?style=flat-square&logo=Gitbook&logoColor=white"/> </a>
+<a href="mailto:ohksj77@naver.com"> <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=Mail.Ru&logoColor=white"/> </a>
+
 # 📚 Confident skills
-![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![springsecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
-![junit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white)
-![hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
+![](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white)
+![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
@@ -65,9 +66,9 @@
 
 # 📊 Stats
 
-![https://solved.ac/profile/ohksj77](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohksj77)
+<a href="https://solved.ac/profile/ohksj77"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohksj77"/> </a>
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=ohksj77&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=150&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=150&section=footer)
 
 </div>
