@@ -1,10 +1,7 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=SeungJin%20Kim&fontSize=90&animation=fadeIn)
- 
-# 🐶 Welcome
-![dancingdog](https://github.com/ohksj77/ohksj77/assets/89020004/0a081f38-a9c0-4a7b-9857-5223fe05c1c4)
- 
+
 # 👤 Links
 
 <a href="https://study-ksj.notion.site/32516b6dc86f406e8eb7a0265c474a2a"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a>
@@ -64,7 +61,18 @@
 ![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![](https://img.shields.io/badge/Klaytn-6F6558?style=for-the-badge&logo=Klaytn&logoColor=white)
 
+# 👥 Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=tukcom2023CD&repo=DragonGuard-JinJin)](https://github.com/tukcom2023CD/DragonGuard-JinJin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=ALLBACK-2022&repo=DoodleDoodle-v2)](https://github.com/ALLBACK-2022/DoodleDoodle-v2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=C-B-U&repo=owl-forest)](https://github.com/C-B-U/owl-forest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=HongDam-org&repo=TWTW)](https://github.com/HongDam-org/TWTW)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=sunday-study-kr&repo=used-car)](https://github.com/sunday-study-kr/used-car)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=TeamOwori&repo=Owori-Server)](https://github.com/TeamOwori/Owori-Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=ComputerApplicationLKC&repo=AlgorithmReview)](https://github.com/ComputerApplicationLKC/AlgorithmReview)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=ALLBACK-2022&repo=DoodleDoodle)](https://github.com/ALLBACK-2022/DoodleDoodle)
+
 # 📊 Stats
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohksj77&count_bg=%23258CEF&title_bg=%2394B9EF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://solved.ac/profile/ohksj77"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohksj77"/> </a>
 <br>
