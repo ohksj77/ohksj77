@@ -62,14 +62,14 @@
 ![](https://img.shields.io/badge/Klaytn-6F6558?style=for-the-badge&logo=Klaytn&logoColor=white)
 
 # 👥 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=tukcom2023CD&repo=DragonGuard-JinJin)](https://github.com/tukcom2023CD/DragonGuard-JinJin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=ALLBACK-2022&repo=DoodleDoodle-v2)](https://github.com/ALLBACK-2022/DoodleDoodle-v2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=C-B-U&repo=owl-forest)](https://github.com/C-B-U/owl-forest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=HongDam-org&repo=TWTW)](https://github.com/HongDam-org/TWTW)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=sunday-study-kr&repo=used-car)](https://github.com/sunday-study-kr/used-car)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=TeamOwori&repo=Owori-Server)](https://github.com/TeamOwori/Owori-Server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=ComputerApplicationLKC&repo=AlgorithmReview)](https://github.com/ComputerApplicationLKC/AlgorithmReview)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=ALLBACK-2022&repo=DoodleDoodle)](https://github.com/ALLBACK-2022/DoodleDoodle)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=tukcom2023CD&repo=DragonGuard-JinJin)](https://github.com/tukcom2023CD/DragonGuard-JinJin)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=ALLBACK-2022&repo=DoodleDoodle-v2)](https://github.com/ALLBACK-2022/DoodleDoodle-v2)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=C-B-U&repo=owl-forest)](https://github.com/C-B-U/owl-forest)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=HongDam-org&repo=TWTW)](https://github.com/HongDam-org/TWTW)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=sunday-study-kr&repo=used-car)](https://github.com/sunday-study-kr/used-car)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=TeamOwori&repo=Owori-Server)](https://github.com/TeamOwori/Owori-Server)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=ComputerApplicationLKC&repo=AlgorithmReview)](https://github.com/ComputerApplicationLKC/AlgorithmReview)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=ALLBACK-2022&repo=DoodleDoodle)](https://github.com/ALLBACK-2022/DoodleDoodle)
 
 # 📊 Stats
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohksj77&count_bg=%23258CEF&title_bg=%2394B9EF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
