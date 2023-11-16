@@ -3,6 +3,8 @@
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&text=%20%20SeungJin%20Kim%20%20&fontAlign=25&fontSize=35&textBg=true&desc=Ever-Growing%20Server%20Developer&descAlign=68&descAlignY=50)
 <br>
 
+### I'm interested in Server Development with Spring!
+
 <a href="https://ohksj77.tistory.com/"> <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=skyblue"/> </a>
 <a href="https://ohksj77.gitbook.io/seungjin-kim/"> <img src="https://img.shields.io/badge/Gitbook-000000?style=flat-square&logo=Gitbook&logoColor=skyblue"/> </a>
 <a href="mailto:ohksj77@naver.com"> <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=Mail.Ru&logoColor=skyblue"/> </a> <br>
