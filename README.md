@@ -1,6 +1,6 @@
 <div align=center>
   
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=SeungJin%20Kim&fontSize=80&fontAlignY=37&desc=Server%20Developer&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=SeungJin%20Kim&fontSize=80&fontAlignY=37&desc=Server%20Developer)
 
 ## 👋🏻 Me
 [![](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=skyblue)](https://ohksj77.tistory.com/)
