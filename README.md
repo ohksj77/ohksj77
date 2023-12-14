@@ -2,11 +2,7 @@
   
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=SeungJin%20Kim&fontSize=80&fontAlignY=37&desc=Server%20Developer)
 
-## 👋🏻 Me
-[![](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=skyblue)](https://ohksj77.tistory.com/)
-[![](https://img.shields.io/badge/Gitbook-000000?style=flat-square&logo=Gitbook&logoColor=skyblue)](https://ohksj77.gitbook.io/seungjin-kim/)
-[![](https://img.shields.io/badge/Email-000000?style=flat-square&logo=Mail.Ru&logoColor=skyblue)](mailto:ohksj77@naver.com)
-
+## 👋🏻 Hello
 [![](http://mazassumnida.wtf/api/mini/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77/)
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohksj77&count_bg=%2329B0C6&title_bg=%23434343&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)
 
