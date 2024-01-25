@@ -5,7 +5,7 @@
 
 기술 스택: `Java Spring`, `Jpa`, `MySQL`, `Redis`, `Docker` <br>
 관심있는 기술: `Kotlin`, `Kafka`, `RabbitMQ`, `Kubernetes`, `ArgoCD` <br>
-이후 학습해볼 기술: `Spring Cloud`, `React`, `Terraform`, `Ansible` <br>
+아직 부족해 학습할 기술: `Spring Cloud`, `React`, `Terraform`, `Ansible` <br>
 
 
 ## 👋🏻 Hello
