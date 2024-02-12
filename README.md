@@ -23,8 +23,6 @@
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ComputerApplicationLKC&repo=AlgorithmReview)](https://github.com/ComputerApplicationLKC/AlgorithmReview)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ALLBACK-2022&repo=DoodleDoodle)](https://github.com/ALLBACK-2022/DoodleDoodle)|
 |_#Spring Cloud MSA #Prometheus #Alert Manager_|_#Flask #AI #React.js_|
 
-*해시태그는 직접 기여한 부분 혹은 맡은 직책입니다.
-
 ## 📜 활동 이력
 
 |Period|Activity|
