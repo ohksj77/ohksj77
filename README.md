@@ -21,7 +21,7 @@
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=sunday-study-kr&repo=used-car)](https://github.com/sunday-study-kr/used-car)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=TeamOwori&repo=Owori-Server)](https://github.com/TeamOwori/Owori-Server)|
 |_#Kotlin Spring #Spring Security #OAuth2 #Jwt_|_#Code Review #Lead Developer_|
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ComputerApplicationLKC&repo=AlgorithmReview)](https://github.com/ComputerApplicationLKC/AlgorithmReview)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ALLBACK-2022&repo=DoodleDoodle)](https://github.com/ALLBACK-2022/DoodleDoodle)|
-|_#Spring Cloud MSA #Prometheus #Alert Manager_|_#Flask #AI #React.js_|
+|_#Spring Cloud MSA #Prometheus #Zipkin #Jib_|_#Flask #AI #React.js_|
 
 ## 📜 활동 이력
 
