@@ -13,15 +13,15 @@
 
 ## 💾 주요 프로젝트
 
-|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=tukcom2023CD&repo=DragonGuard-JinJin)](https://github.com/tukcom2023CD/DragonGuard-JinJin)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=HongDam-org&repo=TWTW)](https://github.com/HongDam-org/TWTW)|
+|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=HongDam-org&repo=TWTW)](https://github.com/HongDam-org/TWTW)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=tukcom2023CD&repo=DragonGuard-JinJin)](https://github.com/tukcom2023CD/DragonGuard-JinJin)|
 |:----:|:----:|
-|_#Kafka #k8s #GitOps #Redis #Crawling #Blockchain_|_#STOMP #OpenAPI #RabbitMQ #Redis #JUnit5_|
+|_#STOMP #OpenAPI #RabbitMQ #Redis #JUnit5_|_#Kafka #k8s #GitOps #Redis #Crawling #Blockchain_|
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ALLBACK-2022&repo=DoodleDoodle-v2)](https://github.com/ALLBACK-2022/DoodleDoodle-v2)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=C-B-U&repo=owl-forest)](https://github.com/C-B-U/owl-forest)|
-|_#Brin index #K6 Load Test #AI #Github Actions_|_#Refactoring #OOP #Lead Developer Among 45_|
+|_#Brin index #K6 Load Test #AI #Github Actions_|_#OOP #Lead Developer Among 45_|
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=sunday-study-kr&repo=used-car)](https://github.com/sunday-study-kr/used-car)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=TeamOwori&repo=Owori-Server)](https://github.com/TeamOwori/Owori-Server)|
-|_#Kotlin Spring #Spring Security #OAuth2 #Jwt_|_#Code Review #Lead Developer_|
+|_#Kotlin Spring #Spring Security #OAuth2 #Jwt_|_#Refactoring #Code Review #Lead Developer_|
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ComputerApplicationLKC&repo=AlgorithmReview)](https://github.com/ComputerApplicationLKC/AlgorithmReview)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ALLBACK-2022&repo=DoodleDoodle)](https://github.com/ALLBACK-2022/DoodleDoodle)|
-|_#Spring Cloud MSA #Prometheus #Zipkin #Jib_|_#Flask #AI #React.js_|
+|_#Spring Cloud MSA #Prometheus #Zipkin #Jib_|_#Flask #Docker #Nginx #AI #React.js_|
 
 ## 📜 활동 이력
 
