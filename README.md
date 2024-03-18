@@ -38,5 +38,12 @@
 |2023.12|한국공학대학교 SW 캡스톤디자인 콘테스트|캡스톤 부문 최우수상|
 |2023.12|한이음 ICT 멘토링 공모전|한국정보산업연합회장상(입선)|
 |2022.10|한국공학대학교 SW 캡스톤디자인 콘테스트|프리캡스톤 부문 동상|
- 
+
+## 🔐 자격
+
+|Period|Organization|Certificate|
+|:----:|:----:|:----:|
+|2023.05|Google Cloud Study Jam|[Google Cloud의 Kubernetes](https://www.cloudskillsboost.google/public_profiles/25a7c5ab-5aec-40ea-83b4-326630580875/badges/3668680)|
+|2024.03|프로그래머스 코딩전문역량인증|PCCP Java Lv.2|
+
 </div>
