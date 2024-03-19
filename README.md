@@ -50,7 +50,6 @@
 
 |Period|Organization|Certificate|
 |:----:|:----:|:----:|
-|2023.05|Google Cloud Study Jam|[Google Cloud의 Kubernetes](https://www.cloudskillsboost.google/public_profiles/25a7c5ab-5aec-40ea-83b4-326630580875/badges/3668680)|
 |2024.03|프로그래머스 코딩전문역량인증|PCCP Java Lv.2|
 
 </div>
