@@ -4,7 +4,7 @@
 
 
 기술 스택: `Java`, `Spring`, `Jpa`, `MySQL`, `Redis`, `Docker`, `aws ec2` <br>
-관심있는 기술: `Kotlin`, `Kafka`, `RabbitMQ`, `Kubernetes`, `ArgoCD`, `Terraform` <br>
+관심 있는 기술: `Kotlin`, `Kafka`, `RabbitMQ`, `Kubernetes`, `ArgoCD`, `Terraform` <br>
 
 
 ## 👋🏻 안녕하세요
