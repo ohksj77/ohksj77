@@ -15,11 +15,11 @@
 
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=HongDam-org&repo=TWTW)](https://github.com/HongDam-org/TWTW)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=tukcom2023CD&repo=DragonGuard-JinJin)](https://github.com/tukcom2023CD/DragonGuard-JinJin)|
 |:----:|:----:|
-|_#System Design #STOMP #DLQ #CircuitBreaker_|_#Scheduling #DistributedLock #Ranking System_|
+|_#System Design #STOMP #DLQ #CircuitBreaker_|_#Scheduling #Concurrency Control #Ranking System_|
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ALLBACK-2022&repo=DoodleDoodle-v2)](https://github.com/ALLBACK-2022/DoodleDoodle-v2)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=C-B-U&repo=owl-forest)](https://github.com/C-B-U/owl-forest)|
-|_#Brin index #Load Test #Rest Docs #CICD_|_#OOP #Lead Developer Among 45_|
-|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=sunday-study-kr&repo=used-car)](https://github.com/sunday-study-kr/used-car)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=TeamOwori&repo=Owori-Server)](https://github.com/TeamOwori/Owori-Server)|
-|_#Kotlin Spring #Security_|_#Refactoring #Code Review #Test Code_|
+|_#Brin index #Load Test #Rest Docs #API Polling_|_#OOP #Lead Developer Among 45_|
+|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=TeamOwori&repo=Owori-Server)](https://github.com/TeamOwori/Owori-Server)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=sunday-study-kr&repo=used-car)](https://github.com/sunday-study-kr/used-car)|
+|_#Refactoring #Code Review #Test Code #CICD_|_#Kotlin Spring #Security_|
 
 ## 💾 기타 프로젝트
 
