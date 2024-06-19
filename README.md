@@ -3,8 +3,8 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=SeungJin%20Kim&fontSize=80&fontAlignY=37&desc=Server%20Developer)
 
 
-기술 스택: `Java`, `Spring`, `Jpa`, `MySQL`, `Redis`, `Docker`, `aws ec2` <br>
-관심 있는 기술: `Kotlin`, `Kafka`, `RabbitMQ`, `Kubernetes`, `ArgoCD`, `Terraform` <br>
+기술 스택: `Java` `Spring` `Jpa` `MySQL` `Redis` `Docker` `aws ec2` <br>
+관심 있는 기술: `Kotlin` `Kafka` `RabbitMQ` `Kubernetes` `ArgoCD` `Terraform` <br>
 
 
 ## 👋🏻 안녕하세요
