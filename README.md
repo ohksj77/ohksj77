@@ -29,7 +29,7 @@ _* 기여 내역 중 [파란](https://github.com/ohksj77) 글꼴은 블로그 �
 |:----:|:----:|
 |_#Spring Cloud #Monitoring #Container_|_#Flask #Cloud Deploy #React.js_|
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=bid-bid&repo=bidbid)](https://github.com/bid-bid/bidbid)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=TUK-Board-Project&repo=DeveloperBoard)](https://github.com/TUK-Board-Project/DeveloperBoard)|
-|_#Spring MVC #SSR_|_#Node.js #Koa #Jwt_|
+|_#Spring MVC #Template Engine_|_#Node.js #Koa #Jwt_|
 
 
 ## 📜 활동 내역
