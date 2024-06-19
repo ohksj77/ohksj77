@@ -12,12 +12,14 @@
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohksj77&count_bg=%2329B0C6&title_bg=%23434343&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)
 
 ## 💻 주요 프로젝트
+_* 기여 내역 중 [파란](https://github.com/ohksj77) 글꼴은 블로그 포스트로 연결됩니다._
 
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=HongDam-org&repo=TWTW)](https://github.com/HongDam-org/TWTW)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=tukcom2023CD&repo=DragonGuard-JinJin)](https://github.com/tukcom2023CD/DragonGuard-JinJin)|
 |:----:|:----:|
-|_#System Design #STOMP #DLQ #CircuitBreaker_|_#Scheduling #Concurrency Control #Ranking System_|
+|_[#System Design](https://ohksj77.tistory.com/252) [#Dead Letter](https://ohksj77.tistory.com/260) [#OpenAPI Caching](https://ohksj77.tistory.com/261)_|_[#OpenAPI Scheduling Update](https://ohksj77.tistory.com/258) [#Concurrency Control](https://ohksj77.tistory.com/251)_|
+|_[#Test Double](https://ohksj77.tistory.com/263) [#FullText](https://ohksj77.tistory.com/259) [#CircuitBreaker](https://ohksj77.tistory.com/262)_|_[#Sorted Set Ranking System](https://ohksj77.tistory.com/256)_|
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ALLBACK-2022&repo=DoodleDoodle-v2)](https://github.com/ALLBACK-2022/DoodleDoodle-v2)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=C-B-U&repo=owl-forest)](https://github.com/C-B-U/owl-forest)|
-|_#Brin index #Load Test #Rest Docs #API Polling_|_#OOP #Lead Developer Among 45_|
+|_[#Brin index](https://ohksj77.tistory.com/250) #Load Test #Rest Docs #API Polling_|_#OOP #Lead Developer Among 45_|
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=TeamOwori&repo=Owori-Server)](https://github.com/TeamOwori/Owori-Server)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=sunday-study-kr&repo=used-car)](https://github.com/sunday-study-kr/used-car)|
 |_#Refactoring #Code Review #Test Code #CICD_|_#Kotlin Spring #Security_|
 
