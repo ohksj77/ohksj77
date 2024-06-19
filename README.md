@@ -4,7 +4,7 @@
 
 
 기술 스택: `Java` `Spring` `Jpa` `MySQL` `Redis` `Docker` `aws ec2` <br>
-관심 있는 기술: `Kotlin` `Kafka` `RabbitMQ` `Kubernetes` `ArgoCD` `Terraform` <br>
+관심 있는 기술: `Kotlin` `RabbitMQ` `Kafka` `Kubernetes` `ArgoCD` `Terraform` <br>
 
 
 ## 👋🏻 안녕하세요
@@ -15,22 +15,22 @@
 
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=HongDam-org&repo=TWTW)](https://github.com/HongDam-org/TWTW)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=tukcom2023CD&repo=DragonGuard-JinJin)](https://github.com/tukcom2023CD/DragonGuard-JinJin)|
 |:----:|:----:|
-|_#STOMP #Resilience4J #RabbitMQ #Redis #JUnit5_|_#Kafka #k8s #GitOps #Redis #Crawling #Blockchain_|
+|_#System Design #STOMP #DLQ #CircuitBreaker_|_#Scheduling #DistributedLock #Ranking System_|
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ALLBACK-2022&repo=DoodleDoodle-v2)](https://github.com/ALLBACK-2022/DoodleDoodle-v2)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=C-B-U&repo=owl-forest)](https://github.com/C-B-U/owl-forest)|
-|_#Brin index #K6 Load Test #AI #Github Actions_|_#OOP #Lead Developer Among 45_|
+|_#Brin index #Load Test #Rest Docs #CICD_|_#OOP #Lead Developer Among 45_|
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=sunday-study-kr&repo=used-car)](https://github.com/sunday-study-kr/used-car)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=TeamOwori&repo=Owori-Server)](https://github.com/TeamOwori/Owori-Server)|
-|_#Kotlin Spring #Spring Security #OAuth2 #Jwt_|_#Refactoring #Code Review #Lead Developer_|
+|_#Kotlin Spring #Security_|_#Refactoring #Code Review #Test Code_|
 
 ## 💾 기타 프로젝트
 
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ComputerApplicationLKC&repo=AlgorithmReview)](https://github.com/ComputerApplicationLKC/AlgorithmReview)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ALLBACK-2022&repo=DoodleDoodle)](https://github.com/ALLBACK-2022/DoodleDoodle)|
 |:----:|:----:|
-|_#Spring Cloud #MSA #Prometheus #Zipkin #Jib_|_#Python #Flask #Docker #Nginx #AI #React.js_|
+|_#Spring Cloud #Monitoring #Container_|_#Flask #Cloud Deploy #React.js_|
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=bid-bid&repo=bidbid)](https://github.com/bid-bid/bidbid)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=TUK-Board-Project&repo=DeveloperBoard)](https://github.com/TUK-Board-Project/DeveloperBoard)|
 |_#Spring MVC #SSR_|_#Node.js #Koa #Jwt_|
 
 
-## 📜 활동 이력
+## 📜 활동 내역
 
 |Period|Activity|
 |:----:|:----:|
