@@ -24,13 +24,23 @@ _* 기여 내역 중 [파란](https://github.com/ohksj77) 글꼴은 블로그 �
 |_#Refactoring #Code Review #Test Code #CICD_|_#Kotlin Spring #Security_|
 
 ## 💾 기타 프로젝트
+_* 미숙하더라도 성정 과정이 담긴 팀 프로젝트 목록입니다._
 
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ComputerApplicationLKC&repo=AlgorithmReview)](https://github.com/ComputerApplicationLKC/AlgorithmReview)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=ALLBACK-2022&repo=DoodleDoodle)](https://github.com/ALLBACK-2022/DoodleDoodle)|
 |:----:|:----:|
 |_#Spring Cloud #Monitoring #Container_|_#Flask #Cloud Deploy #React.js_|
-|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=bid-bid&repo=bidbid)](https://github.com/bid-bid/bidbid)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=TUK-Board-Project&repo=DeveloperBoard)](https://github.com/TUK-Board-Project/DeveloperBoard)|
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=bid-bid&repo=bidbid)](https://github.com/bid-bid/bidbid)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=TUK-Board-Project&repo=DeveloperBoard)](https://github.com/TUK-Board-Project/DeveloperBoard)|
 |_#Spring MVC #Template Engine_|_#Node.js #Koa #Jwt_|
 
+## 🪀 토이 프로젝트
+_* 지적 호기심 해결과 역량 향상을 위한 프로젝트 목록입니다._
+
+|Type|Repository|Note|Type|Repository|Note|
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|`개인`|[cafe](https://github.com/ohksj77/cafe)|DCI, FullText|`개인`|[block-file-extensions](https://github.com/ohksj77/block-file-extensions)|File Upload|
+|`팀`|[realtime-communication](https://github.com/ohksj77/realtime-communication)|기술 비교용 스테이징 서버|`개인`|[efk-log-collection](https://github.com/ohksj77/efk-log-collection)|클러스터링 서버 로그 수집|
+|`개인`|[soft-delete-hibernate](https://github.com/ohksj77/soft-delete-hibernate)|Hibernate 신기능 탐구|`개인`|[mysql-replication](https://github.com/ohksj77/mysql-replication)|DB 다중화 및 read-write 분리|
+|`개인`|[gradle-spring-multi-module](https://github.com/ohksj77/gradle-spring-multi-module)|Gradle 멀티 모듈|`팀`|[AmorGakCo-Backend](https://github.com/AmorGakCo/Backend)|코드 리뷰어 활동 (초기 단계)|
 
 ## 📜 활동 내역
 
