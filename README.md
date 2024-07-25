@@ -41,7 +41,7 @@ _* 지적 호기심 해결을 위해 틈틈이 진행한 프로젝트 목록입�
 |`팀`|[realtime-communication](https://github.com/ohksj77/realtime-communication)|테스트용 스테이징 서버|`개인`|[efk-log-collection](https://github.com/ohksj77/efk-log-collection)|클러스터링 서버 로그 수집|
 |`개인`|[soft-delete-hibernate](https://github.com/ohksj77/soft-delete-hibernate)|Hibernate 신기능 탐구|`개인`|[mysql-replication](https://github.com/ohksj77/mysql-replication)|DB 다중화|
 |`개인`|[mongodb-sharded-cluster](https://github.com/ohksj77/mongodb-sharded-cluster)|NoSQL 샤딩 탐구|`개인`|[kotlin-spring-batch](https://github.com/ohksj77/kotlin-spring-batch)|스케줄링과 배치|
-|`개인`|[gradle-spring-multi-module](https://github.com/ohksj77/gradle-spring-multi-module)|Gradle 멀티 모듈|`팀`|[AmorGakCo-Backend](https://github.com/AmorGakCo/Backend)|코드 리뷰어 활동 (초기 단계)|
+|`개인`|[gradle-spring-multi-module](https://github.com/ohksj77/gradle-spring-multi-module)|Gradle 멀티 모듈|`팀`|[AmorGakCo-Backend](https://github.com/AmorGakCo/Backend)|코드 리뷰어 활동 (진행 중)|
 
 ## 📜 활동 내역
 
