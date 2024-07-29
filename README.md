@@ -1,6 +1,9 @@
 # 안녕하세요. _김승진_ 입니다.
 **Server/Backend Developer**
 
+Blog: [https://ohksj77.tistory.com](https://ohksj77.tistory.com) <br>
+Email: [ohksj77@naver.com](mailto:ohksj77@naver.com)
+
 [![](https://mazassumnida.wtf/api/mini/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77/)
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohksj77&count_bg=%2329B0C6&title_bg=%23434343&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)
 
@@ -38,6 +41,7 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 |[GitRank](https://github.com/tukcom2023CD/DragonGuard-JinJin)|[Github OpenAPI의 느린 응답 이슈와 스케줄링](https://ohksj77.tistory.com/258) <br> [동시성 이슈와 Lock 전략 수립](https://ohksj77.tistory.com/251) <br> [랭킹 시스템과 SortedSet](https://ohksj77.tistory.com/256)|
 |[두들두들 v2](https://github.com/ALLBACK-2022/DoodleDoodle-v2)|[UUID 및 Brin 인덱스 쿼리 개선](https://ohksj77.tistory.com/250)|
 |[아모르각코](https://github.com/AmorGakCo/Backend)|[알림 시스템 설계 일지](https://ohksj77.tistory.com/268)|
+|-|[성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> [Hibernate 신기능 탐구](https://ohksj77.tistory.com/249)|
 
 
 ## 🏄🏻 활동 내역
