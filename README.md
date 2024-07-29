@@ -4,9 +4,9 @@
 [![](https://mazassumnida.wtf/api/mini/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77/)
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohksj77&count_bg=%2329B0C6&title_bg=%23434343&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)
 
-- **빠른 시도로 문제를 해결하는 것과 중복되는 부분을 개선하는 것을 좋아합니다.**
+- **빠른 시도로 문제를 해결하는 것과 불필요한 부분을 개선하는 것을 좋아합니다.**
   - 지속적인 시도로 여러 단계에 걸쳐 이슈를 개선하거나 해결한 경험이 많습니다.
-  - 객체의 협력을 활용하고 인프라를 통해 불필요한 구조를 개선합니다.
+  - 객체의 협력을 활용해 효과적인 코드를 지향하며 인프라를 통해 불필요한 작업을 개선합니다.
 
 <br>
 
