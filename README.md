@@ -34,7 +34,7 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 
 |Project|Blog Posts|
 |:----:|:----:|
-|[이길저길](https://github.com/HongDam-org/TWTW)|[실시간 양방향 취치 공유 시스템 설계](https://ohksj77.tistory.com/252) <br> [FCM 알림 발송 비동기 처리](https://ohksj77.tistory.com/260) <br> [RateLimit 이슈와 캐시 적용](https://ohksj77.tistory.com/261) <br> [테스트 더블과 전략 패턴](https://ohksj77.tistory.com/263) <br> [OpenAPI의 서킷 브레이커 적용과 모니터링](https://ohksj77.tistory.com/262) <br> [닉네임 검색과 FullText 인덱스](https://ohksj77.tistory.com/259) <br> [실시간 통신 기술 비교 분석](https://ohksj77.tistory.com/267) <br> [Composite 패턴과 ObjectMapper 통합 관리](https://ohksj77.tistory.com/242)|
+|[이길저길](https://github.com/HongDam-org/TWTW)|[실시간 양방향 위치 공유 시스템 설계](https://ohksj77.tistory.com/252) <br> [FCM 알림 발송 비동기 처리](https://ohksj77.tistory.com/260) <br> [RateLimit 이슈와 캐시 적용](https://ohksj77.tistory.com/261) <br> [테스트 더블과 전략 패턴](https://ohksj77.tistory.com/263) <br> [OpenAPI의 서킷 브레이커 적용과 모니터링](https://ohksj77.tistory.com/262) <br> [닉네임 검색과 FullText 인덱스](https://ohksj77.tistory.com/259) <br> [실시간 통신 기술 비교 분석](https://ohksj77.tistory.com/267) <br> [Composite 패턴과 ObjectMapper 통합 관리](https://ohksj77.tistory.com/242)|
 |[GitRank](https://github.com/tukcom2023CD/DragonGuard-JinJin)|[Github OpenAPI의 느린 응답 이슈와 스케줄링](https://ohksj77.tistory.com/258) <br> [동시성 이슈와 Lock 전략 수립](https://ohksj77.tistory.com/251) <br> [랭킹 시스템과 SortedSet](https://ohksj77.tistory.com/256)|
 |[두들두들 v2](https://github.com/ALLBACK-2022/DoodleDoodle-v2)|[UUID 및 Brin 인덱스 쿼리 개선](https://ohksj77.tistory.com/250)|
 |[아모르각코](https://github.com/AmorGakCo/Backend)|[알림 시스템 설계 일지](https://ohksj77.tistory.com/268)|
