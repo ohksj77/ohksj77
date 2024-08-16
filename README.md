@@ -22,10 +22,10 @@
  
 ## 📚 기술 스택
 - **주요 기술 스택은 다음과 같습니다.**
-  - `Java Spring` `JPA` `MySQL` `Redis` `RabbitMQ` `Docker` `aws ec2`
+  - `Java Spring` `JPA` `MySQL` `Redis` `Docker` `aws ec2`
 - **현재 관심 있는 기술/분야는 다음과 같습니다.**
-  - `Kafka` / `NoSQL` `System Design` `Cloud Infra`
-- **한 언어나 기술에 종속되지 않으려 노력하며 다음 기술들도 경험했습니다.**
+  - `RabbitMQ` `Kafka` / `NoSQL` `System Design` `Cloud Infra`
+- **한 언어나 프레임워크에 종속되지 않으려 노력하며 다음 기술들도 경험했습니다.**
   - `Kotlin Spring` `Node.js Koa` `Python Flask`
 
 
