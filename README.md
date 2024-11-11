@@ -16,9 +16,9 @@
 <br>
 
 - **주도적으로 문제를 해결하기 위해 노력합니다.**
+  - 오픈 소스 기여를 시도하며 직접 문제를 해결합니다.
   - 개발 동아리 운영진을 맡으며 동아리 행사를 활성화한 경험이 있습니다.
   - 45명의 동아리 부원이 참여한 프로젝트를 리드한 경험이 있습니다.
-  - 다수의 스터디를 리드하고 주도적으로 학습하며 개발 역량을 키워왔습니다.
 
  
 ## 📚 기술 스택
@@ -45,9 +45,9 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 
 ## 📂 오픈 소스 기여
 - **quartz-scheduler/quartz**
-  - 다중 misfired trigger를 순회하며 retrieve 시 예외 핸들링 추가 [PR#1260](https://github.com/quartz-scheduler/quartz/pull/1260) [PR#1261](https://github.com/quartz-scheduler/quartz/pull/1261) (opened)
+  - 다중 misfired trigger를 순회하며 retrieve 시 예외 핸들링 추가 [PR#1260](https://github.com/quartz-scheduler/quartz/pull/1260) [PR#1261](https://github.com/quartz-scheduler/quartz/pull/1261) _(opened)_
 - **rabbitmq/rabbitmq-java-client**
-  - 메시지의 requeue에 대한 메트릭 수집 기능 추가 [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) (opened)
+  - 메시지의 requeue에 대한 메트릭 수집 기능 추가 [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) _(opened)_
 
 ## 🏄🏻 활동 내역
 
