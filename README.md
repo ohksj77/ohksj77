@@ -46,7 +46,7 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 ## 📂 오픈소스 기여
 - **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) [PR#1476](https://github.com/rabbitmq/rabbitmq-java-client/pull/1476)
   - 메시지의 requeue 메트릭 추가 및 해당 메트릭 수집 기능 추가
-- **quartz-scheduler/quartz** [PR#1260](https://github.com/quartz-scheduler/quartz/pull/1260) [PR#1261](https://github.com/quartz-scheduler/quartz/pull/1261) (processing)
+- **quartz-scheduler/quartz** [PR#1260](https://github.com/quartz-scheduler/quartz/pull/1260) [PR#1261](https://github.com/quartz-scheduler/quartz/pull/1261)
   - 다중 misfired trigger를 retrieve 중 예외 시 롤백 및 재처리로 인한 무한 실패 이슈를 에러 핸들링으로 해결
 
 ## 🏄🏻 활동 내역
