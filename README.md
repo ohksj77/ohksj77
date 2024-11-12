@@ -16,7 +16,7 @@
 <br>
 
 - **주도적으로 문제를 해결하기 위해 노력합니다.**
-  - 오픈 소스 기여를 시도하며 직접 문제를 해결합니다.
+  - 오픈소스에 기여하며 직접 문제를 해결하였습니다.
   - 개발 동아리 운영진을 맡으며 동아리 행사를 활성화한 경험이 있습니다.
   - 45명의 동아리 부원이 참여한 프로젝트를 리드한 경험이 있습니다.
 
@@ -43,7 +43,7 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 |[아모르각코](https://github.com/AmorGakCo/Backend)|[알림 시스템 설계 일지](https://ohksj77.tistory.com/268)|**[위치 기반 모각코 관리 서비스]** <br> 리뷰어로 참여해 코드 리뷰를 진행하며 설계 작업을 도왔습니다.|
 |-|[성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> [Hibernate 신기능 탐구](https://ohksj77.tistory.com/249)|프로젝트 외의 탐구 작업 포스트 목록입니다.|
 
-## 📂 오픈 소스 기여
+## 📂 오픈소스 기여
 - **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) [PR#1476](https://github.com/rabbitmq/rabbitmq-java-client/pull/1476)
   - 메시지의 requeue 메트릭 추가 및 해당 메트릭 수집 기능 추가
 - **quartz-scheduler/quartz** [PR#1260](https://github.com/quartz-scheduler/quartz/pull/1260) [PR#1261](https://github.com/quartz-scheduler/quartz/pull/1261) (processing)
