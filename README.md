@@ -42,7 +42,7 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 |[GitRank v1](https://github.com/tukcom2023CD/DragonGuard-JinJin) <br> [core-service v2](https://github.com/GitRank-v2/core-service)|[Github OpenAPI의 느린 응답 이슈와 스케줄링](https://ohksj77.tistory.com/258) <br> [동시성 이슈와 Lock 전략 수립](https://ohksj77.tistory.com/251) <br> [랭킹 시스템과 SortedSet](https://ohksj77.tistory.com/256)|**[블록체인 기반 깃 랭크 시스템]** <br> 한이음 ICT 멘토링 공모전 입선작입니다.<br> 아쉬운 부분을 개선하며 Kotilin Spring 기반 v2로 리팩토링 중입니다. |
 |[두들두들 v2](https://github.com/ALLBACK-2022/DoodleDoodle-v2)|[UUID 및 Brin 인덱스 쿼리 개선](https://ohksj77.tistory.com/250)|**[손그림 AI 분석 서비스]** <br> Flask 기반 v1을 학습용으로 migration 진행한 프로젝트입니다.|
 |[아모르각코](https://github.com/AmorGakCo/Backend)|[알림 시스템 설계 일지](https://ohksj77.tistory.com/268)|**[위치 기반 모각코 관리 서비스]** <br> 리뷰어로 참여해 코드 리뷰를 진행하며 설계 작업을 도왔습니다.|
-|-|[성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> [Hibernate 신기능 탐구](https://ohksj77.tistory.com/249)|프로젝트 외의 탐구 작업 포스트 목록입니다.|
+|-|[성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> [Hibernate @SoftDelete 탐구](https://ohksj77.tistory.com/249)|프로젝트 외의 탐구 작업 포스트 목록입니다.|
 
 ## 📂 오픈소스 기여
 - **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) [PR#1476](https://github.com/rabbitmq/rabbitmq-java-client/pull/1476)
