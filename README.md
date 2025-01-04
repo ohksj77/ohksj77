@@ -28,7 +28,7 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 | 기타 탐구 작업 | 1. [UUID 및 Brin 인덱스 쿼리 개선](https://ohksj77.tistory.com/250) <br> 2. [알림 시스템 설계 일지](https://ohksj77.tistory.com/268) <br> 3. [성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> 4. [Hibernate @SoftDelete 탐구](https://ohksj77.tistory.com/249) <br> 5. [Composite 패턴과 ObjectMapper 통합 관리](https://ohksj77.tistory.com/242) |
 
 ## 💼 경험
-- **Electornic Arts Korea** / Server Software Engineer Intern [2025.01 ~ now]
+- **Electronic Arts Korea** / Server Software Engineer Intern [2025.01 ~ now]
 
 ## 📂 오픈소스 기여
 **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) [PR#1476](https://github.com/rabbitmq/rabbitmq-java-client/pull/1476)
