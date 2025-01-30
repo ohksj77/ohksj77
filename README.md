@@ -27,7 +27,10 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 | 기타 탐구 작업 | 1. [UUID 및 Brin 인덱스 쿼리 개선](https://ohksj77.tistory.com/250) <br> 2. [알림 시스템 설계 일지](https://ohksj77.tistory.com/268) <br> 3. [성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> 4. [Hibernate @SoftDelete 탐구](https://ohksj77.tistory.com/249) <br> 5. [Composite 패턴과 ObjectMapper 통합 관리](https://ohksj77.tistory.com/242) |
 
 ## 💼 경험
-- **Electronic Arts Korea** / Server Software Engineer Intern [2025.01 ~ now]
+
+<div align="left">
+  <li><strong>Electronic Arts korea</strong> / Server Software Engineer Intern <sub>2025.01 ~ Now</sub></li>
+</div>
 
 ## 📂 오픈소스 기여
 **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) [PR#1476](https://github.com/rabbitmq/rabbitmq-java-client/pull/1476)
@@ -37,14 +40,23 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 - 다중 misfired trigger를 retrieve 중 예외 시 롤백 및 재처리로 인한 무한 실패 이슈를 에러 핸들링으로 해결
 
 ## 🎓 교육
-- 한국공학대학교 / 컴퓨터공학부 소프트웨어학과 학사 [2020.03 ~ 2024.02]
+
+<div align="left">
+  <li>한국공학대학교 / 컴퓨터공학부 소프트웨어학과 학사 <sub>2020.03 ~ 2024.02</sub></li>
+</div>
 
 ## 🏄🏻 활동
-- 한이음 ICT 멘토링 [2023.04 ~ 2023.11]
-- 한국공학대학교 UMC 4기 - **서버/Spring 파트장(운영진)** [2023.03 ~ 2023.08]
-- 한국공학대학교 프로그래밍 동아리 씨부엉 - **운영진** [2022.03 ~ 2022.12]
+
+<div align="left">
+  <li>한이음 ICT 멘토링 <sub>2023.04 ~ 2023.11</sub></li>
+  <li>한국공학대학교 UMC 4기 / <strong>서버/Spring 파트장(운영진)</strong> <sub>2023.03 ~ 2023.08</sub></li>
+  <li>한국공학대학교 프로그래밍 동아리 씨부엉 / <strong>운영진</strong> <sub>2022.03 ~ 2022.12</sub></li>
+</div>
 
 ## 🏆 수상 내역
-- TUKOREA SW-PowerUp / **최우수상** [2023.12]
-- 한이음 ICT 멘토링 공모전 / **한국정보산업연합회장상(입선)** [2023.12]
-- 한국공학대학교 SW 캡스톤디자인 콘테스트 / **프리캡스톤 부문 동상** [2022.10]
+
+<div align="left">
+  <li>TUKOREA SW-PowerUp / <strong>최우수상</strong> <sub>2023.12</sub></li>
+  <li>한이음 ICT 멘토링 공모전 / <strong>한국정보산업연합회장상(입선)</strong> <sub>2023.12</sub></li>
+  <li>한국공학대학교 SW 캡스톤디자인 콘테스트 / <strong>프리캡스톤 부문 동상</strong> <sub>2022.10</sub></li>
+</div>
