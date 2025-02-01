@@ -26,7 +26,7 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 | [GitRank v1](https://github.com/tukcom2023CD/DragonGuard-JinJin) <br> [GitRank v2](https://github.com/orgs/GitRank-v2/repositories?q=core-service+OR+open-api-worker+OR+alert-worker) | 1. [Github OpenAPI의 느린 응답 이슈와 스케줄링](https://ohksj77.tistory.com/258) <br> 2. [동시성 이슈와 Lock 전략 수립](https://ohksj77.tistory.com/251) <br> 3. [랭킹 시스템과 SortedSet](https://ohksj77.tistory.com/256) |
 | 기타 탐구 작업 | 1. [UUID 및 Brin 인덱스 쿼리 개선](https://ohksj77.tistory.com/250) <br> 2. [알림 시스템 설계 일지](https://ohksj77.tistory.com/268) <br> 3. [성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> 4. [Hibernate @SoftDelete 탐구](https://ohksj77.tistory.com/249) <br> 5. [Composite 패턴과 ObjectMapper 통합 관리](https://ohksj77.tistory.com/242) |
 
-## 💼 경험
+## 💼 경력
 
 <div align="left">
   <li><strong>Electronic Arts korea</strong> / Server Software Engineer Intern <sub>2025.01 ~ Now</sub></li>
