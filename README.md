@@ -11,6 +11,7 @@
     <td style="vertical-align: top; width: 50%;">
       <details>
         <summary>Hard Skills</summary>
+        <hr>
         <h4>안정적으로 데이터를 처리할 수 있는 백엔드 엔지니어입니다.</h4>
         <ul>
           <li><strong>100만 건의 데이터 로직을 bulk 처리</strong>하며 chunk 별 데이터 처리 중 충돌을 해결했습니다.</li>
@@ -27,6 +28,7 @@
     <td style="vertical-align: top; width: 50%;">
       <details>
         <summary>Soft Skills & Etc</summary>
+        <hr>
         <h4>빠른 시도로 문제를 해결하는 것과 불필요한 부분을 개선하는 것을 선호합니다.</h4>
         <ul>
           <li>여러 단계에 걸친 시도로 이슈를 개선하거나 해결한 경험이 다수 있습니다.</li>
