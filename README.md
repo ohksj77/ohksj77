@@ -4,35 +4,43 @@
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohksj77&count_bg=%2329B0C6&title_bg=%23434343&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)
 
 ## 🎙️ 소개
-#### _#인턴 #서비스운영 #오픈소스기여 #시스템설계 #안정적데이터처리 #동아리운영진 #공모전입상_
-<details>
-<summary>hard-skill</summary>
-<h4>안정적으로 데이터를 처리할 수 있는 백엔드 엔지니어입니다.</h4>
-<ul>
-    <li><strong>100만 건의 데이터 로직을 bulk 처리</strong>하며 chunk 별 데이터 처리 중 충돌을 해결했습니다.</li>
-    <li>MQ의 <strong>데드레터와 재시도 전략</strong>을 수립하여 안정적으로 비동기 데이터 처리를 수행했습니다.</li>
-</ul>
-<h4>문제 해결과 개선 방안을 꾸준히 고민합니다.</h4>
-<ul>
-    <li>커넥션 기반 동적 queue 관리가 가능한 <strong>실시간 양방향 위치 공유 시스템을 설계</strong>했습니다.</li>
-    <li><strong>서비스를 운영</strong>하기 위해 트래픽에 적합한 서버 인프라를 고민하여 <strong>인프라 비용을 절감</strong>했습니다.</li>
-    <li>rabbitmq-java-client, quartz <strong>오픈소스에 기여</strong>하며 직접 문제를 해결한 경험이 있습니다.</li>
-</ul>
-</details>
-<details>
-<summary>soft-skill & etc</summary>
-<h4>빠른 시도로 문제를 해결하는 것과 불필요한 부분을 개선하는 것을 선호합니다.</h4>
-<ul>
-    <li>여러 단계에 걸친 시도로 이슈를 개선하거나 해결한 경험이 다수 있습니다.</li>
-    <li>서비스에 애정을 갖고 개발하며 문제를 해결할 때 성취감을 느낍니다.</li>
-</ul>
-<h4>주도적으로 문제를 해결하기 위해 노력합니다.</h4>
-<ul>
-    <li>개발 동아리 운영진을 맡으며 동아리 행사를 활성화한 경험이 있습니다.</li>
-    <li>45명의 동아리 부원이 참여한 프로젝트를 리드한 경험이 있습니다.</li>
-</ul>
-</details>
+### _#인턴 #서비스운영 #오픈소스기여 #시스템설계 #안정적데이터처리 #동아리운영진 #공모전입상_
 
+<table style="width:100%; table-layout: fixed;">
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <details>
+        <summary>Hard Skills</summary>
+        <h4>안정적으로 데이터를 처리할 수 있는 백엔드 엔지니어입니다.</h4>
+        <ul>
+          <li><strong>100만 건의 데이터 로직을 bulk 처리</strong>하며 chunk 별 데이터 처리 중 충돌을 해결했습니다.</li>
+          <li>MQ의 <strong>데드레터와 재시도 전략</strong>을 수립하여 안정적으로 비동기 데이터 처리를 수행했습니다.</li>
+        </ul>
+        <h4>문제 해결과 개선 방안을 꾸준히 고민합니다.</h4>
+        <ul>
+          <li>커넥션 기반 동적 queue 관리가 가능한 <strong>실시간 양방향 위치 공유 시스템을 설계</strong>했습니다.</li>
+          <li><strong>서비스를 운영</strong>하기 위해 트래픽에 적합한 서버 인프라를 고민하여 <strong>인프라 비용을 절감</strong>했습니다.</li>
+          <li>rabbitmq-java-client, quartz <strong>오픈소스에 기여</strong>하며 직접 문제를 해결한 경험이 있습니다.</li>
+        </ul>
+      </details>
+    </td>
+    <td style="vertical-align: top; width: 50%;">
+      <details>
+        <summary>Soft Skills & Etc</summary>
+        <h4>빠른 시도로 문제를 해결하는 것과 불필요한 부분을 개선하는 것을 선호합니다.</h4>
+        <ul>
+          <li>여러 단계에 걸친 시도로 이슈를 개선하거나 해결한 경험이 다수 있습니다.</li>
+          <li>서비스에 애정을 갖고 개발하며 문제를 해결할 때 성취감을 느낍니다.</li>
+        </ul>
+        <h4>주도적으로 문제를 해결하기 위해 노력합니다.</h4>
+        <ul>
+          <li>개발 동아리 운영진을 맡으며 동아리 행사를 활성화한 경험이 있습니다.</li>
+          <li>45명의 동아리 부원이 참여한 프로젝트를 리드한 경험이 있습니다.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
 
 ## 📬 블로그 포스트
 _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적** 위주로 블로그에 기록하고 있습니다._
