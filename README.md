@@ -4,7 +4,7 @@
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohksj77&count_bg=%2329B0C6&title_bg=%23434343&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)
 
 ## 🎙️ 소개
-### _#인턴 #서비스운영 #오픈소스기여 #시스템설계 #안정적데이터처리 #동아리운영진 #공모전입상_
+### _`#인턴` `#서비스운영` `#오픈소스기여` `#시스템설계` `#안정적데이터처리` `#동아리운영진` `#공모전입상`_
 
 <table style="width:100%; table-layout: fixed;">
   <tr>
