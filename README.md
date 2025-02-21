@@ -14,13 +14,13 @@
         <hr>
         <h4>안정적으로 데이터를 처리할 수 있는 백엔드 엔지니어입니다.</h4>
         <ul>
-          <li><strong>100만 건의 데이터 로직을 bulk 처리</strong>하며 chunk 별 데이터 처리 중 충돌을 해결했습니다.</li>
+          <li><strong>100만 건의 데이터 로직을 다중 서버에서 bulk 처리</strong>하기 위해 MQ polling 기반 RPC 통신을 로드밸런싱했습니다.</li>
           <li>MQ의 <strong>데드레터와 재시도 전략</strong>을 수립하여 안정적으로 비동기 데이터 처리를 수행했습니다.</li>
         </ul>
         <h4>문제 해결과 개선 방안을 꾸준히 고민합니다.</h4>
         <ul>
           <li>커넥션 기반 동적 queue 관리가 가능한 <strong>실시간 양방향 위치 공유 시스템을 설계</strong>했습니다.</li>
-          <li><strong>서비스를 운영</strong>하기 위해 트래픽에 적합한 서버 인프라를 고민하여 <strong>인프라 비용을 절감</strong>했습니다.</li>
+          <li><strong>서비스를 운영</strong>하며 부하 테스트 기반으로 트래픽에 적합한 서버 인프라로 전환해 <strong>인프라 비용을 절감</strong>했습니다.</li>
           <li>rabbitmq-java-client, quartz <strong>오픈소스에 기여</strong>하며 직접 문제를 해결한 경험이 있습니다.</li>
         </ul>
       </details>
