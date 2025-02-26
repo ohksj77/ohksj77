@@ -57,7 +57,7 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 ## 💼 경력
 
 <div align="left">
-  <li><strong>Electronic Arts korea</strong> / Server Software Engineer Intern <sub>2025.01 ~ Now</sub></li>
+  <li><strong>Electronic Arts korea</strong> / Server Software Engineer Intern <sub>2025.01 ~ 2025.02</sub></li>
 </div>
 
 ## 📂 오픈소스 기여
