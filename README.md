@@ -1,7 +1,7 @@
 # 안녕하세요. _김승진_ 입니다.
 
 [![](https://mazassumnida.wtf/api/mini/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77/)
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohksj77&count_bg=%2329B0C6&title_bg=%23434343&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)
+![](https://hits.sh/github.com/ohksj77.svg?view=today-total&color=58b8e7)
 
 ## 🎙️ 소개
 ### _`#인턴경력` `#서비스운영` `#오픈소스기여` `#시스템설계` `#안정적데이터처리` `#IT동아리운영진` `#공모전입상`_
