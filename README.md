@@ -49,6 +49,7 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 
 | **Related Project** | **Blog Posts** |
 |:----|:----|
+|가상 아이템 bulk 개봉|[아이템 개봉과 API 서버의 자체 로드밸런싱](https://ohksj77.tistory.com/274)|
 | [이길저길](https://github.com/HongDam-org/TWTW) | 1. [실시간 양방향 위치 공유 시스템 설계](https://ohksj77.tistory.com/252) <br> 2. [실시간 통신 기술 비교 분석](https://ohksj77.tistory.com/267) <br> 3. [FCM 알림 발송 비동기 처리](https://ohksj77.tistory.com/260) <br> 4. [RateLimit 이슈와 캐시 적용](https://ohksj77.tistory.com/261) <br> 5. [테스트 더블과 전략 패턴](https://ohksj77.tistory.com/263) <br> 6. [OpenAPI의 서킷 브레이커 적용과 모니터링](https://ohksj77.tistory.com/262) <br> 7. [닉네임 검색과 FullText 인덱스](https://ohksj77.tistory.com/259) |
 | [showpot-core](https://github.com/AlreadyTakenSeat/showpot-core-BE) <br> [showpot-alarm](https://github.com/AlreadyTakenSeat/showpot-alarm-BE) <br> [Google PlayStore](https://play.google.com/store/apps/details?id=com.alreadyoccupiedseat.showpot) | 1. [운영서버 배포 사전 성능 테스트](https://ohksj77.tistory.com/270) <br> 2. [커스텀 메트릭 수집을 통한 모니터링](https://ohksj77.tistory.com/272) <br> 3. [조회수 카운팅 동시성 이슈 해결과 비동기 처리](https://ohksj77.tistory.com/271) |
 | [GitRank v1](https://github.com/tukcom2023CD/DragonGuard-JinJin) <br> [GitRank v2](https://github.com/orgs/GitRank-v2/repositories?q=core-service+OR+open-api-worker+OR+alert-worker) | 1. [Github OpenAPI의 느린 응답 이슈와 스케줄링](https://ohksj77.tistory.com/258) <br> 2. [동시성 이슈와 Lock 전략 수립](https://ohksj77.tistory.com/251) <br> 3. [랭킹 시스템과 SortedSet](https://ohksj77.tistory.com/256) |
@@ -57,8 +58,8 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 ## 💼 경력
 <strong>Electronic Arts Korea</strong> / Server Software Engineer Intern <sub>2025.01 ~ 2025.02</sub>
 <div align="left">
-  <li>100만 건의 데이터 로직을 bulk 처리하며 문제 해결에 집중했습니다.</li>
-  <li>RPC 로드밸런싱과 프록시 기반 쿼리 우회로 사내에 없던 새로운 구조와 문제 해결 방법을 제시했습니다.</li>
+  <li>100만 건의 데이터 로직을 bulk 처리하며 어드민 서버 개발로 테스터의 생산성에 기여했습니다.</li>
+  <li>API 서버의 자체 로드밸런싱과 프록시 기반 쿼리 우회로 사내에 없던 새로운 구조와 문제 해결 방법을 제시했습니다.</li>
 </div>
 
 ## 📂 오픈소스 기여
