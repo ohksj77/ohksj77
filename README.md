@@ -55,7 +55,7 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 | 기타 탐구 작업 | 1. [UUID 및 Brin 인덱스 쿼리 개선](https://ohksj77.tistory.com/250) <br> 2. [알림 시스템 설계 일지](https://ohksj77.tistory.com/268) <br> 3. [성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> 4. [Hibernate @SoftDelete 탐구](https://ohksj77.tistory.com/249) |
 
 ## 💼 경력
-<strong>Electronic Arts Korea</strong> / Server Software Engineer Intern <sub>2025.01 ~ 2025.02</sub>
+<strong>Electronic Arts Korea</strong> / <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer Intern</a> <sub>2025.01 ~ 2025.02</sub>
 <div align="left">
   <li>100만 건의 데이터 로직을 bulk 처리하며 어드민 서버 개발로 테스터의 생산성에 기여했습니다.</li>
   <li>API 서버의 자체 로드밸런싱과 프록시 기반 쿼리 우회로 사내에 없던 새로운 구조와 문제 해결 방법을 제시했습니다.</li>
