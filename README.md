@@ -3,7 +3,7 @@
 [![](https://mazassumnida.wtf/api/mini/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77/)
 ![](https://hits.sh/github.com/ohksj77.svg?view=today-total&color=58b8e7)
 
-## 🎙️ 소개
+## 🎙️ Introduce
 |타입|대표 경험|
 |:---:|:---:|
 |개발|`API 서버 자체 부하분산 시스템 설계`, `실시간 시스템 설계`, `대용량 데이터 처리`, `인프라 비용 절감`|
@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-## 📬 블로그 포스트
+## 📬 Blog Posts
 _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적** 위주로 블로그에 기록하고 있습니다._
 
 | **Related Project** | **Blog Posts** |
@@ -57,14 +57,14 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 | [GitRank v1](https://github.com/tukcom2023CD/DragonGuard-JinJin) <br> [GitRank v2](https://github.com/orgs/GitRank-v2/repositories?q=core-service+OR+open-api-worker+OR+alert-worker) | 1. [OpenAPI의 느린 응답과 스케줄링 기반 배치](https://ohksj77.tistory.com/258) <br> 2. [동시성 이슈와 Lock 전략 수립](https://ohksj77.tistory.com/251) <br> 3. [랭킹 시스템과 SortedSet](https://ohksj77.tistory.com/256) |
 | 기타 탐구 작업 | 1. [UUID 및 Brin 인덱스 쿼리 개선](https://ohksj77.tistory.com/250) <br> 2. [알림 시스템 설계](https://ohksj77.tistory.com/268) <br> 3. [성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> 4. [Hibernate @SoftDelete 탐구](https://ohksj77.tistory.com/249) |
 
-## 💼 커리어
+## 💼 Career
 <strong>Electronic Arts Korea</strong> / FC Online / <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer Intern</a> <sub>2025.01 ~ 2025.02</sub>
 <div align="left">
   <li>100만 건의 데이터 로직을 bulk 처리하며 어드민 서버 개발로 테스터의 생산성에 기여했습니다.</li>
   <li>API 서버의 자체 로드밸런싱과 프록시 기반 쿼리 우회로 사내에 없던 새로운 구조와 문제 해결 방법을 제시했습니다.</li>
 </div>
 
-## 📂 오픈소스 기여
+## 📂 Open Source
 **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469)
 - 메시지의 requeue 메트릭 추가 및 해당 메트릭 수집 기능 추가
 - 메인테이너의 [PR#1476](https://github.com/rabbitmq/rabbitmq-java-client/pull/1476)에서 제 작업이 merge 되었습니다.
