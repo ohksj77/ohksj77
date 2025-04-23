@@ -57,8 +57,8 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 ## 💼 Career
 <strong>Electronic Arts Korea</strong> / FC Online / <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer Intern</a> <sub>2025.01 ~ 2025.02</sub>
 <div align="left">
-  <li>100만 건의 데이터 로직을 bulk 처리하며 어드민 서버 개발로 테스터의 생산성에 기여했습니다.</li>
-  <li>API 서버의 자체 로드밸런싱과 프록시 기반 쿼리 우회로 사내에 없던 새로운 구조와 문제 해결 방법을 제시했습니다.</li>
+  <li>아이템 대량 개봉 기능을 어드민 서버에 개발하여 테스터의 생산성에 기여했습니다.</li>
+  <li>API 서버의 자체 로드밸런싱 시스템을 설계하여 사내에 없던 새로운 구조를 제시했습니다.</li>
 </div>
 
 ## 📂 Open Source
