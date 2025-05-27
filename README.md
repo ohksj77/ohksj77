@@ -58,10 +58,9 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 
 ## 💼 Career
 <strong>EA Korea</strong> / FC Online / <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer 인턴</a> <sub>2025.01 ~ 2025.02</sub>
-<div align="left">
-  <li>아이템 대량 개봉 기능을 어드민 서버에 개발하여 테스터의 생산성에 기여했습니다.</li>
-  <li>API 서버의 자체 로드밸런싱 시스템을 설계하여 사내에 없던 새로운 구조를 제시했습니다.</li>
-</div>
+
+- 아이템 대량 개봉 기능을 어드민 서버에 개발하여 테스터의 생산성에 기여했습니다.
+- API 서버의 자체 로드밸런싱 시스템을 설계하여 사내에 없던 새로운 구조를 제시했습니다.
 
 ## 📂 Open Source
 **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469)
