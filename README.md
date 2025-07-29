@@ -64,7 +64,7 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 - API 서버의 자체 로드밸런싱 시스템을 설계하여 사내에 없던 새로운 구조를 제시했습니다.
 
 ## 📂 Open Source
-**rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469)
+**rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) [Release v5.23.0](https://github.com/rabbitmq/rabbitmq-java-client/releases/tag/v5.23.0)
 - 메시지의 requeue 메트릭 추가 및 해당 메트릭 수집 기능 추가
 - 메인테이너의 [PR#1476](https://github.com/rabbitmq/rabbitmq-java-client/pull/1476)에서 제 작업이 merge 되었습니다.
 
