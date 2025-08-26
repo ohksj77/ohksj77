@@ -3,6 +3,8 @@
 [![](https://mazassumnida.wtf/api/mini/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77/)
 ![](https://hits.sh/github.com/ohksj77.svg?view=today-total&color=58b8e7)
 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+
 ## 🎙️ Introduce
 #### `#부하분산시스템설계` `#실시간시스템설계` `#대용량데이터처리` `#인프라비용절감` `#오픈소스기여`
 
