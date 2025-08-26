@@ -58,10 +58,8 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 | 오픈소스 직접 구현 | 1. [Kotlin으로 직접 MySQL 구현하기](https://ohksj77.tistory.com/276) <br> 2. [Kotlin으로 직접 Git 구현하기](https://ohksj77.tistory.com/277) <br> 3. [Kotlin으로 직접 API GW 구현하기](https://ohksj77.tistory.com/278) |
 
 ## 💼 Career
-<strong>EA Korea</strong> / FC Online / <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer 인턴</a> <sub>2025.01 ~ 2025.02</sub>
-
-- 아이템 대량 개봉 기능을 어드민 서버에 개발하여 테스터의 생산성에 기여했습니다.
-- API 서버의 자체 로드밸런싱 시스템을 설계하여 사내에 없던 새로운 구조를 제시했습니다.
+- <strong>EA Korea</strong> / <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer 인턴</a> <sub>2025.01 ~ 2025.02</sub>
+- <strong>NEXON KOREA</strong> / Backend Engineer <sub>2025.09 ~ current</sub>
 
 ## 📂 Open Source
 **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) [Release v5.23.0](https://github.com/rabbitmq/rabbitmq-java-client/releases/tag/v5.23.0)
