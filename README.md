@@ -5,47 +5,17 @@
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
-## 🎙️ Introduce
-#### `#부하분산시스템설계` `#실시간시스템설계` `#대용량데이터처리` `#인프라비용절감` `#오픈소스기여`
+## 💼 Career
+- <strong>EA Korea</strong> / <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer 인턴</a> <sub>2025.01 ~ 2025.02</sub>
+- <strong>NEXON KOREA</strong> / Backend Engineer <sub>2025.09 ~ current</sub>
 
-<table style="width:100%; table-layout: fixed;">
-  <tr>
-    <td style="vertical-align: top; width: 50%;">
-      <details>
-        <summary>Hard Skills</summary>
-        <hr>
-        <h4>상황에 맞는 설계로 목표 달성 이상의 가치를 주는 백엔드 엔지니어입니다.</h4>
-        <ul>
-          <li>대용량 데이터를 인프라 변경없이 처리하고자 API 서버가 부하분산하는 새로운 시스템 설계로 문제를 해결했습니다.</li>
-          <li>커넥션 기반 동적 queue를 사용하는 실시간 위치 공유 시스템을 설계해 목표 tps를 상회하는 시스템을 완성했습니다.</li>
-        </ul>
-        <h4>기존의 불편함을 개선하는 개발에 보람을 느낍니다.</h4>
-        <ul>
-          <li>트래픽 패턴에 알맞은 인프라 구조로 전환하여 클라우드 비용을 절감한 경험이 있습니다.</li>
-          <li>rabbitmq-java-client, quartz 에 기여하며 직접 오픈소스의 문제를 해결했습니다.</li>
-        </ul>
-      </details>
-    </td>
-    <td style="vertical-align: top; width: 50%;">
-      <details>
-        <summary>Soft Skills & Etc</summary>
-        <hr>
-        <h4>최적의 문제 해결 방법을 찾고자 파고드는 백엔드 엔지니어입니다.</h4>
-        <ul>
-          <li>단순 문제 해결에 그치지 않고 원인과 과정에 대해 고민하며 더 좋은 결과를 만들기 위해 노력합니다. 대용량의 데이터를 처리하기 위해 여러 단계에 걸쳐 더 나은 방향을 탐구한 결과 인프라 변경 없이 부하를 크게 줄일 수 있었습니다.</li>
-        </ul>
-        <h4>프로젝트 전반에 관심을 갖고 상황에 맞는 개선을 시도합니다.</h4>
-        <ul>
-          <li>기존의 것에 의문을 제기하며 더 나은 방향을 고민합니다. 서비스의 클라우드 비용을 낭비하고 있음을 파악해 예상 트래픽 패턴 기반 성능테스트와 함께 구조를 개선하여 인프라 비용을 절감하였습니다.</li>
-        </ul>
-        <h4>활발히 의견을 내며 적극적으로 개발합니다.</h4>
-        <ul>
-          <li>동아리 운영진으로서 의문을 제기하며 행사 활성화를 주도적으로 이끌어 동아리 문화를 개선한 경험이 있습니다. 해결해야할 문제가 있을 때 적극적으로 나서며 기여하고자 합니다.</li>
-        </ul>
-      </details>
-    </td>
-  </tr>
-</table>
+## 📂 Open Source
+- **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) [Release v5.23.0](https://github.com/rabbitmq/rabbitmq-java-client/releases/tag/v5.23.0)
+  - 메시지의 requeue 메트릭 추가 및 해당 메트릭 수집 기능 추가
+  - 메인테이너의 [PR#1476](https://github.com/rabbitmq/rabbitmq-java-client/pull/1476)에서 제 작업이 merge 되었습니다.
+
+- **quartz-scheduler/quartz** [PR#1260](https://github.com/quartz-scheduler/quartz/pull/1260) [PR#1261](https://github.com/quartz-scheduler/quartz/pull/1261)
+  - 다중 misfired trigger를 retrieve 중 예외 시 롤백 및 재처리로 인한 무한 실패 이슈를 에러 핸들링으로 해결
 
 ## 📬 Blog Posts
 _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적** 위주로 블로그에 기록하고 있습니다._
@@ -58,15 +28,3 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 | [GitRank v1](https://github.com/tukcom2023CD/DragonGuard-JinJin) <br> [GitRank v2](https://github.com/orgs/GitRank-v2/repositories?q=core-service+OR+open-api-worker+OR+alert-worker) | 1. [OpenAPI의 느린 응답과 스케줄링 기반 배치](https://ohksj77.tistory.com/258) <br> 2. [동시성 이슈와 Lock 전략 수립](https://ohksj77.tistory.com/251) <br> 3. [랭킹 시스템과 SortedSet](https://ohksj77.tistory.com/256) |
 | 기타 탐구 작업 | 1. [UUID 및 Brin 인덱스 쿼리 개선](https://ohksj77.tistory.com/250) <br> 2. [알림 시스템 설계](https://ohksj77.tistory.com/268) <br> 3. [성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> 4. [Hibernate @SoftDelete 탐구](https://ohksj77.tistory.com/249) | 
 | 오픈소스 직접 구현 | 1. [Kotlin으로 직접 MySQL 구현하기](https://ohksj77.tistory.com/276) <br> 2. [Kotlin으로 직접 Git 구현하기](https://ohksj77.tistory.com/277) <br> 3. [Kotlin으로 직접 API GW 구현하기](https://ohksj77.tistory.com/278) |
-
-## 💼 Career
-- <strong>EA Korea</strong> / <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer 인턴</a> <sub>2025.01 ~ 2025.02</sub>
-- <strong>NEXON KOREA</strong> / Backend Engineer <sub>2025.09 ~ current</sub>
-
-## 📂 Open Source
-**rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) [Release v5.23.0](https://github.com/rabbitmq/rabbitmq-java-client/releases/tag/v5.23.0)
-- 메시지의 requeue 메트릭 추가 및 해당 메트릭 수집 기능 추가
-- 메인테이너의 [PR#1476](https://github.com/rabbitmq/rabbitmq-java-client/pull/1476)에서 제 작업이 merge 되었습니다.
-
-**quartz-scheduler/quartz** [PR#1260](https://github.com/quartz-scheduler/quartz/pull/1260) [PR#1261](https://github.com/quartz-scheduler/quartz/pull/1261)
-- 다중 misfired trigger를 retrieve 중 예외 시 롤백 및 재처리로 인한 무한 실패 이슈를 에러 핸들링으로 해결
