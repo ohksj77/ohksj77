@@ -7,15 +7,8 @@
 
 ## 💼 Career
 - <strong>EA Korea</strong> / <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer 인턴</a> <sub>2025.01 ~ 2025.02</sub>
+
 - <strong>NEXON KOREA</strong> / Backend Engineer <sub>2025.09 ~ current</sub>
-
-## 📂 Open Source
-- **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) [Release v5.23.0](https://github.com/rabbitmq/rabbitmq-java-client/releases/tag/v5.23.0)
-  - 메시지의 requeue 메트릭 추가 및 해당 메트릭 수집 기능 추가
-  - 메인테이너의 [PR#1476](https://github.com/rabbitmq/rabbitmq-java-client/pull/1476)에서 제 작업이 merge 되었습니다.
-
-- **quartz-scheduler/quartz** [PR#1260](https://github.com/quartz-scheduler/quartz/pull/1260) [PR#1261](https://github.com/quartz-scheduler/quartz/pull/1261)
-  - 다중 misfired trigger를 retrieve 중 예외 시 롤백 및 재처리로 인한 무한 실패 이슈를 에러 핸들링으로 해결
 
 ## 📬 Blog Posts
 _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적** 위주로 블로그에 기록하고 있습니다._
@@ -28,3 +21,11 @@ _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적*
 | [GitRank v1](https://github.com/tukcom2023CD/DragonGuard-JinJin) <br> [GitRank v2](https://github.com/orgs/GitRank-v2/repositories?q=core-service+OR+open-api-worker+OR+alert-worker) | 1. [OpenAPI의 느린 응답과 스케줄링 기반 배치](https://ohksj77.tistory.com/258) <br> 2. [동시성 이슈와 Lock 전략 수립](https://ohksj77.tistory.com/251) <br> 3. [랭킹 시스템과 SortedSet](https://ohksj77.tistory.com/256) |
 | 기타 탐구 작업 | 1. [UUID 및 Brin 인덱스 쿼리 개선](https://ohksj77.tistory.com/250) <br> 2. [알림 시스템 설계](https://ohksj77.tistory.com/268) <br> 3. [성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> 4. [Hibernate @SoftDelete 탐구](https://ohksj77.tistory.com/249) | 
 | 오픈소스 직접 구현 | 1. [Kotlin으로 직접 MySQL 구현하기](https://ohksj77.tistory.com/276) <br> 2. [Kotlin으로 직접 Git 구현하기](https://ohksj77.tistory.com/277) <br> 3. [Kotlin으로 직접 API GW 구현하기](https://ohksj77.tistory.com/278) |
+
+## 📂 Open Source
+- **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) [Release v5.23.0](https://github.com/rabbitmq/rabbitmq-java-client/releases/tag/v5.23.0)
+  - 메시지의 requeue 메트릭 추가 및 해당 메트릭 수집 기능 추가
+  - 메인테이너의 [PR#1476](https://github.com/rabbitmq/rabbitmq-java-client/pull/1476)에서 제 작업이 merge 되었습니다.
+
+- **quartz-scheduler/quartz** [PR#1260](https://github.com/quartz-scheduler/quartz/pull/1260) [PR#1261](https://github.com/quartz-scheduler/quartz/pull/1261)
+  - 다중 misfired trigger를 retrieve 중 예외 시 롤백 및 재처리로 인한 무한 실패 이슈를 에러 핸들링으로 해결
