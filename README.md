@@ -6,9 +6,9 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 ## 💼 Career
-- <strong>EA Korea</strong> / <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer 인턴</a> <sub>2025.01 ~ 2025.02</sub>
-
 - <strong>NEXON KOREA</strong> / Backend Engineer <sub>2025.09 ~ current</sub>
+
+- <strong>EA Korea</strong> / <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer 인턴</a> <sub>2025.01 ~ 2025.02</sub>
 
 ## 📬 Blog Posts
 _* 단순 지식 전달의 글 보다는 주로 **개발하며 고민한 흔적** 위주로 블로그에 기록하고 있습니다._
