@@ -8,7 +8,7 @@
 ## 🎙️ Introduce
 
 <details>
-<summary>깊은 기술적 탐구와 문제 해결에 흥미를 갖고 있습니다.</summary>
+<summary>기술적 탐구와 문제 해결에 흥미를 갖고 있습니다.</summary>
 <div markdown="1">
 <br>
 
@@ -24,7 +24,7 @@
 
 
 <details>
-<summary>훌륭한 엔지니어로 성장하고자 노력합니다.</summary>
+<summary>훌륭한 엔지니어로 성장하는데 관심이 많습니다.</summary>
 <div markdown="1">
 <br>
 
