@@ -5,39 +5,6 @@
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
-## 🎙️ Introduce
-
-<details>
-<summary>기술적 탐구와 문제 해결에 흥미를 갖고 있습니다.</summary>
-<div markdown="1">
-<br>
-
-- **대용량 데이터 처리**
-  - 대용량 데이터를 부하 분산하며 처리하기 위한 서버 구조를 설계해 부하를 절반 이하로 감소시켰습니다.
-- **시스템 설계**
-  - queue 활용 전략을 고민하며 실시간 시스템을 설계해 인스턴스마다 1K 사용자를 수용 가능한 환경을 구축했습니다.
-- **문제 해결**
-  - [ 프레임워크, DB, Cache, MQ, 인프라, 네트워크, 서버 구조, 테스트 ] 관련 문제를 고민하며 해결해왔습니다.
-
-</div>
-</details>
-
-
-<details>
-<summary>훌륭한 엔지니어로 성장하는데 관심이 많습니다.</summary>
-<div markdown="1">
-<br>
-
-- **적극적 기여**
-  - 교내 프로그래밍 동아리의 운영진으로서 행사 활성화를 주도하여 성공적으로 동아리 문화를 개선시켰습니다.
-- **개발자로서의 협업**
-  - 의사 결정 상황에는 감정을 빼놓고 의견을 공유하며 상황에 맞는 선택으로 팀이 나아갈 수 있도록 돕고자 합니다.
-- **지속적 성장 노력**
-  - 2021년도 부터 꾸준히 연평균[ 개발 서적 12+권, 개발 강의 7+개 ]를 학습해오고 있습니다.
-
-</div>
-</details>
-
 ## 💼 Career
 - <strong>NEXON KOREA</strong> / Web Application Engineer <sub>2025.09 ~ current</sub> <br> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 
