@@ -13,8 +13,8 @@
 |:----|:----|
 |System Design|Batch System <br> 1. [API 서버 자체 부하분산 배치 시스템 설계](https://ohksj77.tistory.com/274) <br> 2. [OpenAPI의 느린 응답과 스케줄링 기반 배치](https://ohksj77.tistory.com/258) <br> Realtime System <br> 1. [실시간 양방향 위치공유 시스템 설계](https://ohksj77.tistory.com/252) <br> 2. [실시간 통신 기술 성능 테스트](https://ohksj77.tistory.com/267) <br> Alert System <br> 1. [알림 비동기 처리와 데드레터](https://ohksj77.tistory.com/260) <br> 2. [알림 시스템 설계](https://ohksj77.tistory.com/268)|
 |Data|1. [FullText 인덱스](https://ohksj77.tistory.com/259) <br> 2. [UUID 및 Brin 인덱스 쿼리 개선](https://ohksj77.tistory.com/250) <br> 3. [조회수 동시성 이슈와 비동기 처리](https://ohksj77.tistory.com/271) <br> 4. [동시성 이슈와 Lock 전략 수립](https://ohksj77.tistory.com/251) <br> 5. [RateLimit 이슈와 캐시](https://ohksj77.tistory.com/261) <br> 6. [랭킹 시스템과 SortedSet](https://ohksj77.tistory.com/256)|
-|Infra & Platform|1. [인프라 전환과 비용 절감](https://ohksj77.tistory.com/270) <br> 2. [커스텀 메트릭 수집과 모니터링](https://ohksj77.tistory.com/272) <br> 3. [OpenAPI의 서킷브레이커 적용](https://ohksj77.tistory.com/262) <br> 4. [테스트 더블과 전략 패턴](https://ohksj77.tistory.com/263)|
-|Skill Exploration|1. [성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> 2. [Hibernate @SoftDelete 탐구](https://ohksj77.tistory.com/249)|
+|Platform|1. [인프라 전환과 비용 절감](https://ohksj77.tistory.com/270) <br> 2. [커스텀 메트릭 수집과 모니터링](https://ohksj77.tistory.com/272) <br> 3. [OpenAPI의 서킷브레이커 적용](https://ohksj77.tistory.com/262) <br> 4. [테스트 더블과 전략 패턴](https://ohksj77.tistory.com/263)|
+|Skill Exploration|1. [성능테스트 툴 비교](https://ohksj77.tistory.com/266) <br> 2. [Hibernate @SoftDelete 탐구](https://ohksj77.tistory.com/249) <br> 3. [Java 스레드의 발전 과정과 가상 스레드](https://ohksj77.tistory.com/280) <br> 4. [Java의 Structured Concurrency](https://ohksj77.tistory.com/281)|
 |OpenSource Implement|1. [Kotlin으로 직접 MySQL 구현하기](https://ohksj77.tistory.com/276) <br> 2. [Kotlin으로 직접 Git 구현하기](https://ohksj77.tistory.com/277) <br> 3. [Kotlin으로 직접 API GW 구현하기](https://ohksj77.tistory.com/278)|
 
 
