@@ -26,7 +26,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4"><b>Engineering</b></td>
+      <td rowspan="3"><b>Engineering</b></td>
       <td>System Design</td>
       <td>
         Load Balancing System <sub>for on-demand batch</sub><br>
@@ -53,7 +53,10 @@
         <br>
         Cache & Data Structure<br>
         1. <a href="https://ohksj77.tistory.com/261">RateLimit 이슈와 캐시</a><br>
-        2. <a href="https://ohksj77.tistory.com/256">랭킹 시스템과 SortedSet</a>
+        2. <a href="https://ohksj77.tistory.com/256">랭킹 시스템과 SortedSet</a><br>
+        <br>
+        Batch<br>
+        1. <a href="https://ohksj77.tistory.com/258">OpenAPI의 느린 응답과 스케줄링 기반 배치</a>
       </td>
     </tr>
     <tr>
@@ -65,16 +68,10 @@
         Core<br>
         1. <a href="https://ohksj77.tistory.com/272">커스텀 메트릭 수집과 모니터링</a><br>
         2. <a href="https://ohksj77.tistory.com/262">OpenAPI의 서킷브레이커 적용</a><br>
-        3. <a href="https://ohksj77.tistory.com/260">알림 비동기 처리와 데드레터</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Etc</td>
-      <td>
+        3. <a href="https://ohksj77.tistory.com/260">알림 비동기 처리와 데드레터</a><br>
+        <br>
         Test <sub>with oop</sub><br>
-        1. <a href="https://ohksj77.tistory.com/263">테스트 더블과 전략 패턴</a><br>
-        Batch<br>
-        1. <a href="https://ohksj77.tistory.com/258">OpenAPI의 느린 응답과 스케줄링 기반 배치</a>
+        1. <a href="https://ohksj77.tistory.com/263">테스트 더블과 전략 패턴</a>
       </td>
     </tr>
     <tr>
