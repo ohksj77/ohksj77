@@ -29,10 +29,10 @@
       <td rowspan="4"><b>Engineering</b></td>
       <td>System Design</td>
       <td>
-        Load Balancing System <sub>for Batch</sub><br>
+        Load Balancing System <sub>for on-demand batch</sub><br>
         1. <a href="https://ohksj77.tistory.com/274">API 서버 자체 부하분산 배치 시스템 설계</a><br>
         <br>
-        Realtime System <sub>with Geospatial</sub><br>
+        Realtime System <sub>with geospatial</sub><br>
         1. <a href="https://ohksj77.tistory.com/252">실시간 양방향 위치공유 시스템 설계</a><br>
         2. <a href="https://ohksj77.tistory.com/267">실시간 통신 기술 성능 테스트</a><br>
         <br>
@@ -69,10 +69,12 @@
       </td>
     </tr>
     <tr>
-      <td>Design Pattern, Batch</td>
+      <td>Etc</td>
       <td>
+        Test <sub>with oop</sub><br>
         1. <a href="https://ohksj77.tistory.com/263">테스트 더블과 전략 패턴</a><br>
-        2. <a href="https://ohksj77.tistory.com/258">OpenAPI의 느린 응답과 스케줄링 기반 배치</a>
+        Batch<br>
+        1. <a href="https://ohksj77.tistory.com/258">OpenAPI의 느린 응답과 스케줄링 기반 배치</a>
       </td>
     </tr>
     <tr>
