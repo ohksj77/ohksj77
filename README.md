@@ -3,9 +3,9 @@
 <a href="https://www.ohksj77.dev"><img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"> </a> <a href="https://solved.ac/ohksj77"> <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=ohksj77"> </a>
 
 ## 💼 Career
-- <a href="https://company.nexon.com"><strong>NEXON KOREA</strong></a> | Web Application Engineer <sub>2025.09 ~ current</sub> <br> <sub> _#Spring #Full-Time_ </sub>
+- <a href="https://company.nexon.com"><strong>NEXON KOREA</strong></a> | Web Application Engineer <sub>2025.09 ~ current</sub> <br> <sub> _#Spring #Full-Time #Settlement Platform_ </sub>
 
-- <a href="https://www.ea.com/ko-kr/ea-studios/ea-korea"><strong>Electronic Arts Korea (EA)</strong><a> | <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer 인턴</a> <sub>2025.01 ~ 2025.02</sub> <br> <sub> _#Node.js #Internship_ </sub>
+- <a href="https://www.ea.com/ko-kr/ea-studios/ea-korea"><strong>Electronic Arts Korea (EA)</strong><a> | <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer 인턴</a> <sub>2025.01 ~ 2025.02</sub> <br> <sub> _#Node.js #Internship #FC Online (구 피파온라인4)_ </sub>
 
 ## 📂 Open Source
 - **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) / [Release v5.23.0](https://github.com/rabbitmq/rabbitmq-java-client/releases/tag/v5.23.0) <br> <sub>메시지의 requeue 메트릭 추가 및 해당 메트릭 수집 기능 추가</sub>
