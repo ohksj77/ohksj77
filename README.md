@@ -1,107 +1,48 @@
 # 김승진 | Backend Engineer
 
-<a href="https://www.ohksj77.dev"><img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"> </a> <a href="https://solved.ac/ohksj77"> <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=ohksj77"> </a>
+- 제약이 많은 환경에서도 확장성과 복구 가능성을 고려한 서버 구조를 설계해왔습니다.
+- 기술적인 근거 뿐만 아니라 비즈니스 맥락을 고려하며 엔지니어링합니다.
 
-## 💼 Career
-- <a href="https://company.nexon.com"><strong>NEXON KOREA</strong></a> | Web Application Engineer <sub>2025.09 ~ current</sub> <br> <sub> _#Spring #Full-Time #Settlement Platform_ </sub>
+Tech Blog: [ohksj77.tistory.com](https://ohksj77.tistory.com)
 
-- <a href="https://www.ea.com/ko-kr/ea-studios/ea-korea"><strong>Electronic Arts Korea (EA)</strong><a> | <a href="https://blog.naver.com/eakblog/223614659714">Server Software Engineer 인턴</a> <sub>2025.01 ~ 2025.02</sub> <br> <sub> _#Node.js #Internship #FC Online (구 피파온라인4)_ </sub>
+Spring, MySQL, MongoDB, Redis, RabbitMQ, Docker
 
-## 📂 Open Source
-- **rabbitmq/rabbitmq-java-client** [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469) / [Release v5.23.0](https://github.com/rabbitmq/rabbitmq-java-client/releases/tag/v5.23.0) <br> <sub>메시지의 requeue 메트릭 추가 및 해당 메트릭 수집 기능 추가</sub>
+---
 
-- **quartz-scheduler/quartz** [PR#1260](https://github.com/quartz-scheduler/quartz/pull/1260) / [PR#1261](https://github.com/quartz-scheduler/quartz/pull/1261) <br> <sub>다중 misfired trigger를 retrieve 중 예외 시 롤백 및 재처리로 인한 무한 실패 이슈를 에러 핸들링으로 해결</sub>
+## Core Experience
 
-## 🏄🏻 Activity
-- <a href="https://www.yapp.co.kr/"><strong>YAPP</strong></a> 27기 Server Developer <sub>2025.11 ~ current</sub>
+### 레거시 프로시저 서버 로직으로 이전 (Nexon Korea)
+- 3h 32m → 1m 13s (174배 개선)
+- 단계별 트랜잭션 분리 및 복구 가능 구조 설계
+- 실패 지점 추적 및 재시도 가능 설계, 운영 리스크 제거
 
-## 📬 Blog Posts
-<table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Subject</th>
-      <th>Blog Posts</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><b>Career</b></td>
-      <td align="center">Review</td>
-      <td>
-        1. <a href="https://ohksj77.tistory.com/283">DB 프로시저 로직 서버로 이전과 비즈니스 기여를 위한 고민</a><br>
-        2. <a href="https://ohksj77.tistory.com/279">혹한기에 빅테크를 타겟팅한 백엔드 신입 취업 후기</a><br>
-        3. <a href="https://ohksj77.tistory.com/275">EA코리아 2024 동계 인턴십 회고</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" rowspan="3"><b>Engineering</b></td>
-      <td align="center">System Design</td>
-      <td>
-        Load Balancing System <sub>for on-demand batch</sub><br>
-        1. <a href="https://ohksj77.tistory.com/274">API 서버 자체 부하분산 배치 시스템 설계</a><br>
-        <br>
-        Realtime System <sub>with geospatial</sub><br>
-        1. <a href="https://ohksj77.tistory.com/252">실시간 양방향 위치공유 시스템 설계</a><br>
-        2. <a href="https://ohksj77.tistory.com/267">실시간 통신 기술 성능 테스트</a><br>
-        <br>
-        Alert System<br>
-        1. <a href="https://ohksj77.tistory.com/268">알림 시스템 설계</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">Data</td>
-      <td>
-        Concurrency<br>
-        1. <a href="https://ohksj77.tistory.com/271">조회수 동시성 이슈와 비동기 처리</a><br>
-        2. <a href="https://ohksj77.tistory.com/251">동시성 이슈와 Lock 전략 수립</a><br>
-        <br>
-        Cache & Data Structure<br>
-        1. <a href="https://ohksj77.tistory.com/261">RateLimit 이슈와 캐시</a><br>
-        2. <a href="https://ohksj77.tistory.com/256">랭킹 시스템과 SortedSet</a><br>
-        <br>
-        Query<br>
-        1. <a href="https://ohksj77.tistory.com/259">FullText 인덱스</a><br>
-        2. <a href="https://ohksj77.tistory.com/250">UUID 및 Brin 인덱스 쿼리 개선</a><br>
-        <br>
-        Batch<br>
-        1. <a href="https://ohksj77.tistory.com/258">OpenAPI의 느린 응답과 스케줄링 기반 배치</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">Platform</td>
-      <td>
-        Infra<br>
-        1. <a href="https://ohksj77.tistory.com/270">인프라 전환과 비용 절감</a><br>
-        <br>
-        Core<br>
-        1. <a href="https://ohksj77.tistory.com/272">커스텀 메트릭 수집과 모니터링</a><br>
-        2. <a href="https://ohksj77.tistory.com/262">OpenAPI의 서킷브레이커 적용</a><br>
-        3. <a href="https://ohksj77.tistory.com/260">알림 비동기 처리와 데드레터</a><br>
-        <br>
-        Test <sub>with oop</sub><br>
-        1. <a href="https://ohksj77.tistory.com/263">테스트 더블과 전략 패턴</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" rowspan="2"><b>Tech Interest</b></td>
-      <td align="center">Skill Exploration</td>
-      <td>
-        1. <a href="https://ohksj77.tistory.com/266">성능테스트 툴 비교</a><br>
-        2. <a href="https://ohksj77.tistory.com/249">Hibernate @SoftDelete 탐구</a><br>
-        3. <a href="https://ohksj77.tistory.com/280">Java 스레드의 발전 과정과 가상 스레드</a><br>
-        4. <a href="https://ohksj77.tistory.com/282">Java 가상 스레드 오해 짚고 넘어가기</a><br>
-        5. <a href="https://ohksj77.tistory.com/281">Java의 Structured Concurrency</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">OpenSource Implement</td>
-      <td>
-        1. <a href="https://ohksj77.tistory.com/276">Kotlin으로 직접 MySQL 구현하기</a><br>
-        2. <a href="https://ohksj77.tistory.com/277">Kotlin으로 직접 Git 구현하기</a><br>
-        3. <a href="https://ohksj77.tistory.com/278">Kotlin으로 직접 API GW 구현하기</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+비즈니스를 위한 고민 과정: [ohksj77.tistory.com/283](https://ohksj77.tistory.com/283)
 
+---
+
+### 애플리케이션 레벨 부하 분산 설계 (EA Korea)
+- 100만 건 처리의 부하 해결 방안이 아닌 서버가 스스로 처리 여부를 판단 방법으로 문제 재정의
+- 사내 첫 RPC 기반 자율 판단 알고리즘+시스템 설계, 대용량 데이터 처리 시스템 개발
+- 100만 건 9분 처리
+- CPU 100% → 45%, Memory 60% → 20%
+
+상세 설계와 기술적 탐구: [ohksj77.tistory.com/274](https://ohksj77.tistory.com/274)
+
+---
+
+## Open Source
+rabbitmq-java-client / PR [#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469), Release [v5.23.0](https://github.com/rabbitmq/rabbitmq-java-client/releases/tag/v5.23.0)
+- requeue 메트릭 추가 및 메트릭 수집 API 구현, 메시지 재처리 상황 관측 가능성 향상
+- 기존 인터페이스 호환성 유지, 함수형 스타일로 변경 범위 최소화
+<br>
+
+quartz-scheduler / PR [#1260](https://github.com/quartz-scheduler/quartz/pull/1260), [#1261](https://github.com/quartz-scheduler/quartz/pull/1261)
+- misfired trigger 처리 중 예외 시 무한 실패 해결, 에러 핸들링 개선으로 롤백·재시도 무한 루프 방지
+
+---
+
+## Tech Blog 주요 카테고리
+- [프로젝트-탐구](https://ohksj77.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%83%90%EA%B5%AC)
+- [오픈소스-직접-구현](https://ohksj77.tistory.com/category/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%A7%81%EC%A0%91-%EA%B5%AC%ED%98%84)
+- [개발-탐구](https://ohksj77.tistory.com/category/%EA%B0%9C%EB%B0%9C-%ED%83%90%EA%B5%AC)
+- [커리어-회고](https://ohksj77.tistory.com/category/%EA%B8%B0%ED%83%80/%ED%9A%8C%EA%B3%A0)
