@@ -3,6 +3,7 @@
 - 제약이 많은 환경에서 **확장성과 복구 가능성**을 고려한 서버 구조를 설계해왔습니다.
 - 기술적 근거뿐 아니라 **비즈니스 맥락**을 반영해 엔지니어링합니다.
 <br>
+
 `Java/Kotlin` `Spring` `JPA` `MySQL` `MongoDB` `Redis` `RabbitMQ` `Docker`
 
 ---
