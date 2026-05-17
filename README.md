@@ -15,7 +15,7 @@
 - **배운점:** “기술적으로 맞다”만으로는 부족하고, **운영·비즈니스 기준(리스크/우선순위/검증)** 이 설계를 완성시킨다는 걸 체감했습니다.
 
 #### Nexon Korea <sub>2025.09 ~ 2026.05</sub>
-3개 서비스의 메인 개발·운영을 맡으며, 레거시 개선과 관측성·복구 가능성 중심의 안정성을 더하고 있습니다.
+3개 서비스의 메인 개발·운영을 맡으며, 레거시 개선과 관측성·복구 가능성 중심의 안정성을 더했습니다.
 - **연결성:** 대용량·안정성 요구가 큰 도메인에서 강점을 확장하고, 운영으로 **우선순위 판단/비즈니스 기준**을 체화하고 있습니다.
 - **경험:** 레거시 개선으로 운영 리스크를 낮추고, 관측성·복구 가능성 중심의 **플랫폼적 개선**으로 안정성을 더했습니다.
 - **배운점:** 운영 이슈를 통해 **무엇을 먼저/왜** 해야 하는지, 비즈니스 기준으로 판단하는 감각을 길렀습니다.
@@ -34,8 +34,8 @@
 ---
 ## Blog Writing
 #### OpenSource Implementation
-- [json-fastlane](https://ohksj77.tistory.com/284) -> JVM experiment for profile-guided JSON serialization
-- [kanal](https://ohksj77.tistory.com/285) -> Jvm realtime framework (alike Phoenix Channels's JVM/Kotlin Version)
+- [json-fastlane](https://ohksj77.tistory.com/284)
+- [kanal](https://ohksj77.tistory.com/285)
 
 #### OpenSource Clone Implementation
 - [Kotlin으로 MySQL 따라 만들기: KMySQL](https://ohksj77.tistory.com/276)
