@@ -34,6 +34,10 @@
 ---
 ## Blog Writing
 #### OpenSource Implementation
+- [json-fastlane](https://ohksj77.tistory.com/284) -> JVM experiment for profile-guided JSON serialization
+- [kanal](https://ohksj77.tistory.com/285) -> Jvm realtime framework (alike Phoenix Channels's JVM/Kotlin Version)
+
+#### OpenSource Clone Implementation
 - [Kotlin으로 MySQL 따라 만들기: KMySQL](https://ohksj77.tistory.com/276)
 - [Kotlin으로 Git 따라 만들기: KGit](https://ohksj77.tistory.com/277)
 - [Kotlin으로 API Gateway 따라 만들기](https://ohksj77.tistory.com/278)
