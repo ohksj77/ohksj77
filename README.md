@@ -22,29 +22,6 @@
 
 ---
 
-## Core Experience
-
-#### 레거시 DB 프로시저를 복구 가능한 서버 구조로 전환, 운영 예측성 확보 <sub>Nexon Korea</sub>
-- 평균 처리 시간 **3h 32m → 1m 13s (x174)**
-- 단계별 트랜잭션 분리 + **실패 지점 추적/재시도** 가능한 복구 구조 설계
-- 운영 리스크(실패/재처리) 제거
-
-비즈니스를 위한 고민 과정: [ohksj77.tistory.com/283](https://ohksj77.tistory.com/283)
-
-#### 클러스터 환경의 애플리케이션 레벨 부하 분산 시스템 설계 <sub>EA Korea</sub>
-- “100만 건 부하를 줄이는 방법”이 아니라 **서버가 처리 여부를 자율 판단**하도록 문제 재정의
-- 사내 첫 **RPC 기반 자율 판단 알고리즘/시스템** 설계 및 대용량 처리 구현
-- **100만 건 9분 처리**, CPU **100% → 45%**, Memory **60% → 20%**
-
-상세 설계와 기술적 탐구: [ohksj77.tistory.com/274](https://ohksj77.tistory.com/274)
-
-#### Direct Memory 누수 진단: /proc/smaps와 Heap Histogram 기반 분석 <sub>Nexon Korea</sub>
-- 설정 Heap 대비 1GB 추가 점유 원인을 off-heap 메모리 레벨에서 추적
-- Lettuce 커넥션 600+개 누수 발견, 레거시 기능의 SCAN cursor 순회 후 RedisConnection 미반납이 근본 원인
-- try-with-resources로 커넥션 반납을 강제하여 off-heap 1GB 추가 할당 제거
-
----
-
 ## Open Source
 #### rabbitmq-java-client / PR [#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469), Release [v5.23.0](https://github.com/rabbitmq/rabbitmq-java-client/releases/tag/v5.23.0)
   - requeue 메트릭 + 수집 API 추가로 재처리 상황 **관측 가능성 향상**
