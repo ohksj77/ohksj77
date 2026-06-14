@@ -1,37 +1,18 @@
 # 김승진 | Backend Engineer
 
-- 제약이 많은 환경에서 **확장성과 복구 가능성**을 고려한 서버 구조를 설계해왔습니다.
-- 기술적 근거뿐 아니라 **비즈니스 맥락**을 반영해 엔지니어링합니다.
-<br>
-
-`Java/Kotlin` `Spring` `JPA` `MySQL` `MongoDB` `Redis` `RabbitMQ` `Docker`
-
----
 ## Career
 
-#### EA Korea (Intern) <sub>2025.01 ~ 2025.02</sub>
-아이템 대량 개봉 어드민 기능을 맡아 클러스터 내의 부하 분산 시스템을 설계해 부하를 절반 이상 감축했습니다.
-- **경험:** 인프라 제약 속에서도 안정성을 전제로 한 **100만 건 처리 구조**를 설계하며 대용량 처리/구조 설계 역량을 쌓았습니다.
-- **배운점:** “기술적으로 맞다”만으로는 부족하고, **운영·비즈니스 기준(리스크/우선순위/검증)** 이 설계를 완성시킨다는 걸 체감했습니다.
+- **Nexon Korea** / 정산개발팀 / Software Engineer <sub>2025.09 ~ 2026.05  (9 months)</sub>
+- **EA Korea** / FC Online / Server Software Engineer (인턴) <sub>2025.01 ~ 2025.02  (2 months)</sub>
 
-#### Nexon Korea <sub>2025.09 ~ 2026.05</sub>
-3개 서비스의 메인 개발·운영을 맡으며, 레거시 개선과 관측성·복구 가능성 중심의 안정성을 더했습니다.
-- **연결성:** 대용량·안정성 요구가 큰 도메인에서 강점을 확장하고, 운영으로 **우선순위 판단/비즈니스 기준**을 체화하고 있습니다.
-- **경험:** 레거시 개선으로 운영 리스크를 낮추고, 관측성·복구 가능성 중심의 **플랫폼적 개선**으로 안정성을 더했습니다.
-- **배운점:** 운영 이슈를 통해 **무엇을 먼저/왜** 해야 하는지, 비즈니스 기준으로 판단하는 감각을 길렀습니다.
-
----
 
 ## Open Source
 #### rabbitmq-java-client / PR [#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469), Release [v5.23.0](https://github.com/rabbitmq/rabbitmq-java-client/releases/tag/v5.23.0)
-  - requeue 메트릭 + 수집 API 추가로 재처리 상황 **관측 가능성 향상**
-  - 기존 인터페이스 호환성 유지, 변경 범위 최소화
+  - requeue 메트릭 및 수집 기능 추가로 재처리 상황 관측 가능성 향상
 
 #### quartz-scheduler / PR [#1260](https://github.com/quartz-scheduler/quartz/pull/1260), [#1261](https://github.com/quartz-scheduler/quartz/pull/1261)
-  - misfired trigger 예외 시 **무한 실패** 해결
-  - 에러 핸들링 개선으로 롤백/재시도 **무한 루프 방지**
+  - misfired trigger 예외 시 무한 실패 해결
 
----
 ## Blog Writing
 #### OpenSource Implementation
 - [Kotlin으로 MySQL 따라 만들기: KMySQL](https://ohksj77.tistory.com/276)
