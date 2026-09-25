@@ -1,6 +1,6 @@
 # 김승진 | Backend Engineer
 
-![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) [![](http://mazassumnida.wtf/api/mini/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77)
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) [![](http://mazassumnida.wtf/api/mini/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77) [![Hits](https://hits.sh/github.com/ohksj77.svg?view=today-total)](https://hits.sh/github.com/ohksj77/)
 
 #### 안정적인 분산 구조 설계와 운영 안정성 개선에 강점이 있는 엔지니어입니다.
 - EA Korea에서 분산 환경에서의 대용량 데이터 처리를 경험하며 비즈니스를 이해해야함을 깨달았습니다.
