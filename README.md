@@ -21,6 +21,9 @@
 
 ## Open Source
 
+#### hibernate-orm
+- [PR#13629](https://github.com/hibernate/hibernate-orm/pull/13629)
+
 #### rabbitmq-java-client
 - [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469)
 
