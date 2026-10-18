@@ -13,11 +13,9 @@
 
 #### Nexon Korea <sub>2025.09 ~ 2026.05  (9 months)</sub>
 - 정산개발팀 / Software Engineer / Spring
-- 사내 식당 결제와 급여 정산 서비스를 개발하고 운영했습니다.
 
 #### EA Korea <sub>2025.01 ~ 2025.02  (2 months)</sub>
 - FC Online / Server Software Engineer (인턴) / Node.js
-- 아이템 확률 검증을 위한 대량 개봉 기능을 개발했습니다.
 
 ## Open Source
 
@@ -27,7 +25,7 @@
 #### rabbitmq-java-client
 - [PR#1469](https://github.com/rabbitmq/rabbitmq-java-client/pull/1469)
 
-#### quartz-scheduler
+#### quartz
 - [PR#1260](https://github.com/quartz-scheduler/quartz/pull/1260), [PR#1261](https://github.com/quartz-scheduler/quartz/pull/1261)
 
 ## Blog Posts
