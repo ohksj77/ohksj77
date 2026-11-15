@@ -1,4 +1,4 @@
-# 김승진 | Backend Engineer
+# 김승진 Backend Engineer
 
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) [![](http://mazassumnida.wtf/api/mini/generate_badge?boj=ohksj77)](https://solved.ac/ohksj77) [![Hits](https://hits.sh/github.com/ohksj77.svg?view=today-total)](https://hits.sh/github.com/ohksj77/)
 
@@ -12,10 +12,10 @@
 ## Career
 
 #### Nexon Korea <sub>2025.09 ~ 2026.05  (9 months)</sub>
-- 정산개발팀 / Software Engineer / Spring
+- 정산개발팀 / Software Engineer
 
 #### EA Korea <sub>2025.01 ~ 2025.02  (2 months)</sub>
-- FC Online / Server Software Engineer (인턴) / Node.js
+- FC Online / Server Software Engineer (인턴)
 
 ## Open Source
 
@@ -27,6 +27,11 @@
 
 #### quartz
 - [PR#1260](https://github.com/quartz-scheduler/quartz/pull/1260), [PR#1261](https://github.com/quartz-scheduler/quartz/pull/1261)
+
+## Activity
+
+#### YAPP 27th Server Developer
+- Lokit (운영 중) [Web](https://www.lokit.co.kr) / [iOS](https://apps.apple.com/us/app/%EB%A1%9C%ED%82%B7-lokit/id6767100896)
 
 ## Blog Posts
 
