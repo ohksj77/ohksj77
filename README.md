@@ -40,7 +40,12 @@
 - [아이템 bulk 개봉과 API 서버의 자체 로드밸런싱](https://ohksj77.tistory.com/274)
 - [실시간 양방향 위치 공유 시스템 설계](https://ohksj77.tistory.com/252)
 - [실시간 통신 기술 상호 비교 및 분석 with 성능테스트](https://ohksj77.tistory.com/267)
-  
+
+#### Retro
+- [2025 혹한기에 빅테크를 타겟팅한 넥슨 백엔드 신입 취업 후기](https://ohksj77.tistory.com/279)
+- [EA코리아 2024 동계 인턴십 회고](https://ohksj77.tistory.com/275)
+- [Repository Driven Introduce (깃허브 저장소 중심 소개)](https://ohksj77.tistory.com/269)
+
 #### Tech Insight
 - [Kotlin으로 MySQL 따라 만들기: KMySQL](https://ohksj77.tistory.com/276)
 - [Kotlin으로 Git 따라 만들기: KGit](https://ohksj77.tistory.com/277)
