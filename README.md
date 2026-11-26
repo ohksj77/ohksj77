@@ -33,6 +33,9 @@
 #### YAPP 27th Server Developer
 - Lokit (운영 중) [Web](https://www.lokit.co.kr) / [iOS](https://apps.apple.com/us/app/%EB%A1%9C%ED%82%B7-lokit/id6767100896)
 
+#### 개인 사이드 프로젝트
+- before-ai (운영 중) [Web](https://before-ai.dev)
+
 ## Blog Posts
 
 #### Engineering
